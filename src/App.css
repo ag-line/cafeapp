@@ -1,0 +1,56 @@
+.App-header {
+  background-color: #282c34;
+  width: 100%;
+  height: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.App {
+  margin: 0 auto;
+  height: 100%;
+  min-width: 375px;
+  max-width: 900px;
+  min-height: 700px;
+  background-repeat: round;
+  background-image: url(https://cdn.pixabay.com/photo/2017/07/27/23/00/background-2547097_640.jpg);
+}
+.selectBOx,
+.card_list {
+  flex-direction: row;
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
+}
+select {
+  background-color: rgba(103, 108, 251, 0.633);
+  border: none;
+  border-radius: 15px;
+  width: 100px;
+  margin: 15px 0;
+  padding: 15px;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  color: #282c34;
+}
+.card {
+  width: 210px;
+  background-color: rgba(253, 216, 216, 0.852);
+  box-sizing: content-box;
+  display: inline-block;
+  border: 1px solid #282c34;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+h5 {
+  margin: 10px 0;
+  margin-right: 5px;
+  display: inline;
+}
