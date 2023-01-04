@@ -1,7 +1,6 @@
 /* eslint-disable */
 
 import React, { Component, useState } from "react";
-import { Route, Link } from "react-router-dom";
 import "./App.css";
 import CafeInfo from "./cafe";
 import Popup from "./C_component/pop";
@@ -63,6 +62,10 @@ const ThemeSelect = (props) => {
   );
 };
 
+function movePage(dataurl) {
+  location.href = dataurl;
+}
+
 function App() {
   const [selectArea, setArea] = useState("");
   const [selectTh, settheme] = useState("");
@@ -99,7 +102,10 @@ function App() {
     }
   }).map((data, index) => {
     return (
-      <div className="card" key={index}>
+      <div className="card" key={index} onClick={() => movePage(data.link)}>
+        <div className="img">
+          <img src={data.image}></img>
+        </div>
         <b>{data.name}</b>
         <small> ({data.theme})</small>
         <br />

@@ -38,6 +38,11 @@ a {
   text-decoration: none;
   color: #282c34;
 }
+img {
+  display: inline-block;
+  height: 100px;
+  width: 120px;
+}
 .card {
   width: 210px;
   background-color: rgba(253, 216, 216, 0.852);
