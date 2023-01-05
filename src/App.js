@@ -142,7 +142,6 @@ function App() {
           options={THEME}
           onChange={(e) => settheme(e.target.value)}
         ></ThemeSelect>
-        <Popup></Popup>
       </div>
       <div className="card_list">{items}</div>
     </div>
