@@ -39,23 +39,37 @@ a {
   color: #282c34;
 }
 img {
-  display: inline-block;
+  margin: 0 auto;
+  display: block;
   height: 100px;
-  width: 120px;
+  border-radius: 10px;
+  margin: auto 0;
+  width: min-content;
+  min-width: 100px;
+  max-width: 170px;
+  margin: 0 auto;
+}
+.title {
+  display: inline;
+  font-size: 13px;
+  margin: 0;
+}
+.theme {
+  font-size: 8px;
 }
 .card {
-  width: 210px;
-  background-color: rgba(253, 216, 216, 0.852);
+  width: fit-content;
+  background-color: rgba(254, 228, 228, 0.852);
   box-sizing: content-box;
   display: inline-block;
-  border: 1px solid #282c34;
+  border: 1px solid #606266;
   border-radius: 20px;
   padding: 10px;
   margin: 10px;
   cursor: pointer;
+  text-align: center;
 }
-h5 {
-  margin: 10px 0;
+h6 {
   margin-right: 5px;
   display: inline;
 }

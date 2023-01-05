@@ -103,16 +103,14 @@ function App() {
   }).map((data, index) => {
     return (
       <div className="card" key={index} onClick={() => movePage(data.link)}>
-        <div className="img">
-          <img src={data.image}></img>
-        </div>
-        <b>{data.name}</b>
-        <small> ({data.theme})</small>
+        <img src={data.image}></img>
+        <h4 className="title">{data.name}</h4>
+        <small className="theme"> ({data.theme})</small>
         <br />
-        <h5 className="area">{data.area}</h5>
-        <h5 className="gu_si">{data.gu_si}</h5>
+        <h6 className="area">{data.area}</h6>
+        <h6 className="gu_si">{data.gu_si}</h6>
         <small>
-          <h5 className="dong">({data.dong})</h5>
+          <h6 className="dong">({data.dong})</h6>
         </small>
         <br />
         <small>
