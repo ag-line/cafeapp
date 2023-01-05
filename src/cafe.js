@@ -140,16 +140,22 @@ const cafeInfo = [
     address: "성수동2가 271-5",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xgGVfbSk",
+    image:
+      "https://ldb-phinf.pstatic.net/20220816_117/1660640919821R8L1F_JPEG/%BC%F6%C1%A4%B5%CA_220811-0387.jpg",
   },
   {
     area: "서울",
     gu_si: "송파구",
-    dong: "송파",
-    theme: "드로잉",
-    name: "소마드로잉",
-    address: "송파동 57-11",
+    dong: "석촌",
+    theme: "외국",
+    name: "폼커피",
+    address: "송파동 7-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FPeaZ7xo",
+    image:
+      "https://ldb-phinf.pstatic.net/20221029_178/16669912024514JKNn_JPEG/DACF9784-08BE-443E-B5AB-077C5DAC70A6.jpeg",
   },
   {
     area: "서울",
@@ -160,16 +166,22 @@ const cafeInfo = [
     address: "삼전동 48-12",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5Cz0kpJY",
+    image:
+      "https://ldb-phinf.pstatic.net/20211017_279/16344237817419IzeL_JPEG/FJE9cStim-4BBiKcrpyLjPK0.jpg",
   },
   {
     area: "서울",
     gu_si: "성동구",
-    dong: "성수",
+    dong: "뚝섬",
     theme: "대형",
     name: "폴인레미유 성수점",
     address: "성수동1가 656-1004",
     off: "신정",
     parking: "x",
+    link: "https://naver.me/xJL2IwF0",
+    image:
+      "https://ldb-phinf.pstatic.net/20220420_257/1650429254409deiLv_JPEG/%C6%FA%C0%CE%B7%B9%B9%CC%C0%AF_%B7%E7%C7%C1%C5%BE4.jpg",
   },
   {
     area: "서울",
@@ -180,6 +192,9 @@ const cafeInfo = [
     address: "성수동2가 281",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GDcO46vO",
+    image:
+      "https://ldb-phinf.pstatic.net/20210816_256/1629056695237h4suL_JPEG/aBJV0egaMUOnLXVnhyNx3vbC.jpeg.jpg",
   },
   {
     area: "서울",
@@ -190,6 +205,9 @@ const cafeInfo = [
     address: "역삼동 671-13",
     off: "Mon",
     parking: "o",
+    link: "https://naver.me/xQZY88uH",
+    image:
+      "https://ldb-phinf.pstatic.net/20211116_40/1637053245492wGNwu_PNG/A1432.png",
   },
   {
     area: "서울",
@@ -200,6 +218,9 @@ const cafeInfo = [
     address: "성수동2가 271-24",
     off: "1st Mon",
     parking: "x",
+    link: "https://naver.me/G9hukt0L",
+    image:
+      "https://ldb-phinf.pstatic.net/20211115_93/1636957816838znY2m_JPEG/KakaoTalk_20211115_151031492_05.jpg",
   },
   {
     area: "서울",
@@ -210,6 +231,9 @@ const cafeInfo = [
     address: "화양동 3-60",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/Ft8oAGYz",
+    image:
+      "https://ldb-phinf.pstatic.net/20220103_69/1641211091797Fdmv8_PNG/Screenshot_2021-12-27_175412.png",
   },
   {
     area: "서울",
@@ -220,6 +244,9 @@ const cafeInfo = [
     address: "성수동2가 333-52",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GOuQCUaJ",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MjVfMTQ2%2FMDAxNjI3MTczOTc2MjY3.CX3wto4vt_NrJPzZWTpEsPaDz8ghQRojN0xRaCdmBPAg.EBw-P9Vd_vLzojv3NI-o0CRlOXXanmgRn9uFj15TLYog.JPEG.sbtown21%2FKakaoTalk_20210724_225944013_29.jpg",
   },
   {
     area: "경기",
@@ -230,6 +257,9 @@ const cafeInfo = [
     address: "오야동 278",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5Tv3wAX7",
+    image:
+      "https://ldb-phinf.pstatic.net/20150815_192/1439613042475nRGYm_PNG/SUBMIT_1439612977448_11462618.png",
   },
   {
     area: "서울",
@@ -240,6 +270,9 @@ const cafeInfo = [
     address: "송파동 24-7",
     off: "Tue",
     parking: "o",
+    link: "https://naver.me/xNdF3eEM",
+    image:
+      "https://ldb-phinf.pstatic.net/20211004_47/16333220327712mHW9_JPEG/4MpCjydthz2gEGbYjZSZBOcs.jpeg.jpg",
   },
   {
     area: "서울",
@@ -250,6 +283,9 @@ const cafeInfo = [
     address: "화양동 18-26",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FCboqfOa",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEyMThfMTIg%2FMDAxNjM5ODE0NDkwMzMx.K0csg_Mbonjk8NHX-ejkt6Jv2Rm76KnZa0WVk-Kh1fEg.7LX1uahkF-wWrC60M4AmkhL6WmwCEgLYD-XozatF0wMg.JPEG.leeann704%2FIMG_4407.jpg",
   },
   {
     area: "경기",
@@ -260,6 +296,9 @@ const cafeInfo = [
     address: "고등동 573-9",
     off: "Mon",
     parking: "o",
+    link: "https://naver.me/5X9MxvJ8",
+    image:
+      "https://ldb-phinf.pstatic.net/20220312_67/1647041197560JpJsk_JPEG/E505FEBC-6816-4B27-9FB6-74EC09B9D64B.jpeg",
   },
   {
     area: "서울",
@@ -270,6 +309,9 @@ const cafeInfo = [
     address: "송파동 8-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xBpXYNtZ",
+    image:
+      "https://ldb-phinf.pstatic.net/20220225_114/1645782320941aHPWY_JPEG/KakaoTalk_20220223_143917379_02.jpg",
   },
   {
     area: "서울",
@@ -280,6 +322,9 @@ const cafeInfo = [
     address: "신사동 664-17",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5VeA30Oe",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA5MTBfNCAg%2FMDAxNjMxMjM5NzE3MDU4.Yee5Zal6g9XeheTois_V5tNf9tGhinsiga2j_2RUhXQg.Qvknrbq6nqmJQXMijzE7swBvXNuYj1S9FqhLAG64o7cg.JPEG.sgcholaw%2F%25B2%25D9%25B9%25CC%25B1%25E2IMG_0051.jpg",
   },
   {
     area: "서울",
@@ -290,6 +335,9 @@ const cafeInfo = [
     address: "역삼동 649-4",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FIg7w1sk",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjRfMTE4%2FMDAxNjY2NjExMzAzOTc2.qt3SCdjKWL6sWzubXW47WJvpMdTSGSzcxCCbb__XQosg.iZFjGqaPRadho_Wy2nH6xbCXVXd3b4bBDn-GUpr5doEg.JPEG.umsun2004%2FIMG_1109.jpg",
   },
   {
     area: "서울",
@@ -300,6 +348,9 @@ const cafeInfo = [
     address: "명동1가 1-3",
     off: "Sun",
     parking: "x",
+    link: "https://naver.me/FrKwy0Ca",
+    image:
+      "https://ldb-phinf.pstatic.net/20220902_259/1662093130212OMeiR_JPEG/DCC639BC-7B38-4A55-BBDD-8C600DCEE122.JPG",
   },
   {
     area: "서울",
@@ -310,6 +361,9 @@ const cafeInfo = [
     address: "동교동 148-7",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xevjUwS3",
+    image:
+      "https://ldb-phinf.pstatic.net/20191030_107/1572436784582v04cc_JPEG/YzGoJDNNo0Ra4_89rzoaA0Fu.jpg",
   },
   {
     area: "서울",
@@ -320,6 +374,9 @@ const cafeInfo = [
     address: "서교동 369-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5aVtIqGW",
+    image:
+      "https://ldb-phinf.pstatic.net/20200531_228/1590887810536REjfl_JPEG/s9dnHnh6zMqiGK7hn2y3Pref.jpg",
   },
   {
     area: "서울",
@@ -330,6 +387,9 @@ const cafeInfo = [
     address: "가산동 544-6",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5h32gCtd",
+    image:
+      "https://ldb-phinf.pstatic.net/20220503_74/1651541665010Nty4G_JPEG/278263225_1358172804607210_1751621262420110588_n.jpg",
   },
   {
     area: "서울",
@@ -340,6 +400,9 @@ const cafeInfo = [
     address: "서교동 347-24",
     off: "x",
     parking: "x",
+    link: "https://naver.me/IGuhxLRt",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MTRfMTE5%2FMDAxNjU3ODA5NTUzMDAz.2m3RUbbqIOylhGD4oFWs23vXICHKObAhWBh3eyymI1gg.SJXDFXssYclDIqG66Th60nRkLNVlRUkXzvNrdAc3aaAg.JPEG.jkj880308%2FIMG_4999.jpg",
   },
   {
     area: "서울",
@@ -350,6 +413,9 @@ const cafeInfo = [
     address: "송파동 45-18",
     off: "x",
     parking: "x",
+    link: "https://naver.me/IMQp4gVu",
+    image:
+      "https://ldb-phinf.pstatic.net/20210214_74/1613232727977kKWeV_JPEG/s-ta49K-HVV_1EEYD3i4AAW-.jpg",
   },
   {
     area: "서울",
@@ -360,6 +426,9 @@ const cafeInfo = [
     address: "한강로1가 227",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GyLKbBh0",
+    image:
+      "https://ldb-phinf.pstatic.net/20220823_82/1661216091862hpkMY_JPEG/Screenshot_20220822-205328_Instagram.jpg",
   },
   {
     area: "서울",
@@ -370,6 +439,9 @@ const cafeInfo = [
     address: "한강로2가 49-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5E3T148r",
+    image:
+      "https://ldb-phinf.pstatic.net/20221007_212/16651062257035UoTL_JPEG/IMG_9BD6130A35BF-1.jpeg",
   },
   {
     area: "서울",
@@ -380,6 +452,9 @@ const cafeInfo = [
     address: "후암동 406-58",
     off: "x",
     parking: "x",
+    link: "https://naver.me/Gz515bTk",
+    image:
+      "https://ldb-phinf.pstatic.net/20200619_71/1592564386008IQdF9_JPEG/YPNXJN_u1EOzH9KPQv5gWjIP.jpeg.jpg",
   },
   {
     area: "서울",
@@ -390,6 +465,9 @@ const cafeInfo = [
     address: "당산동6가 328-4",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FQaIY2ND",
+    image:
+      "https://ldb-phinf.pstatic.net/20220828_234/1661646172442Vczd8_JPEG/Screenshot_20220827-211551_Samsung_Internet.jpg",
   },
   {
     area: "서울",
@@ -400,6 +478,9 @@ const cafeInfo = [
     address: "신사동 544-16",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xIh2dwz4",
+    image:
+      "https://ldb-phinf.pstatic.net/20220817_216/1660693720699MJszO_JPEG/E1BDC4F7-D97A-4126-89E1-215613C63D77.jpeg",
   },
   {
     area: "서울",
@@ -410,6 +491,9 @@ const cafeInfo = [
     address: "서교동 409-19",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xqvRJSQb",
+    image:
+      "https://ldb-phinf.pstatic.net/20220704_12/1656920530136MpHi5_JPEG/KakaoTalk_20220704_081021936.jpg",
   },
   {
     area: "서울",
@@ -420,6 +504,9 @@ const cafeInfo = [
     address: "동교동 113-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GwDytKXn",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MDRfMzIg%2FMDAxNjU2OTMxNzExMzE4.MSj6WYVpmYMFL2w7DI_cN4gCr8mNF4z2TbPXKexgdSUg.FOVaKgJ7066rZg3R3pyIXHaJlqQ0CS6QMJJVIQqp54gg.JPEG.jisoo831%2FIMG_2290.jpg",
   },
   {
     area: "서울",
@@ -430,6 +517,9 @@ const cafeInfo = [
     address: "연희동 192-9",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/xje3D5vB",
+    image:
+      "https://ldb-phinf.pstatic.net/20220426_162/1650938418873FoY5G_JPEG/IMG_6725.jpg",
   },
   {
     area: "서울",
@@ -440,6 +530,9 @@ const cafeInfo = [
     address: "연남동 561-2",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/xevRPGr8",
+    image:
+      "https://pup-review-phinf.pstatic.net/MjAyMjEwMjRfMTEw/MDAxNjY2NTM5MzE2Mzk4.5dcli3O9y_FkCvnjD-ALTYBT0L6bwjq8uBGZSpcS6skg.WeHWFOoKauolZqyLwTm7z-Cp7OWAzfqJC0dUcO5HChQg.JPEG/DSC09501.JPG",
   },
   {
     area: "서울",
@@ -450,6 +543,9 @@ const cafeInfo = [
     address: "서교동 367-31",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xswcsHf4",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMTRfMTM4%2FMDAxNjcwOTg3MTIxODkx.pdpjcaomwY7qebbtMccf5Vrs6IywlEPxfa0DukKX2X8g.BmxVh7a6JuBiVqC-r_N04tZiYqyVI4myWRz0iofuzIgg.JPEG.ukrich%2F2022%25A3%25AD12%25A3%25AD13%25A3%25AD10%25A3%25AD44%25A3%25AD12%25A3%25AD435.jpg",
   },
   {
     area: "서울",
@@ -460,6 +556,9 @@ const cafeInfo = [
     address: "익선동 144",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5DH3kkiW",
+    image:
+      "https://ldb-phinf.pstatic.net/20200908_107/15995407108786QDrv_JPEG/uVoKhFwiVC-j0fy1Wagk3ZXO.jpeg.jpg",
   },
   {
     area: "서울",
@@ -470,6 +569,9 @@ const cafeInfo = [
     address: "연남동 258-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GAi3m5Ml",
+    image:
+      "https://ldb-phinf.pstatic.net/20220510_30/1652148310725t0aJt_JPEG/68462682-9C12-4B26-B8FB-261EDCE1A63C.jpeg",
   },
   {
     area: "서울",
@@ -480,6 +582,9 @@ const cafeInfo = [
     address: "서교동 403-5",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xvLS8Kvc",
+    image:
+      "https://ldb-phinf.pstatic.net/20221027_232/16668587984082mPfv_PNG/%C0%CF%B9%DD%C8%AD%C1%FA8.png",
   },
   {
     area: "서울",
@@ -490,6 +595,9 @@ const cafeInfo = [
     address: "충무로5가  36-12",
     off: "x ",
     parking: "o",
+    link: "https://naver.me/5Y1wSGMK",
+    image:
+      "https://ldb-phinf.pstatic.net/20210612_288/1623433447568EUHi6_JPEG/lxsiw6_XAFSrJ-HbGccz71z5.jpg",
   },
   {
     area: "서울",
@@ -500,6 +608,9 @@ const cafeInfo = [
     address: "서초동 1564-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FgivTYrQ",
+    image:
+      "https://ldb-phinf.pstatic.net/20190627_109/1561596327644zs39e_JPEG/76ZwYAPJWAwdMBq35gyuKKal.jpeg.jpg",
   },
   {
     area: "서울",
@@ -510,6 +621,9 @@ const cafeInfo = [
     address: "당산동5가 43",
     off: "Mon",
     parking: "o",
+    link: "https://naver.me/G3JuU5yE",
+    image:
+      "https://ldb-phinf.pstatic.net/20210929_112/1632906798045y4dB8_JPEG/1YQv03wrgk6LVXs4peLkCL9O.jpg",
   },
   {
     area: "서울",
@@ -520,6 +634,9 @@ const cafeInfo = [
     address: "역삼동 619-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/F0cNK48N",
+    image:
+      "https://ldb-phinf.pstatic.net/20220726_123/16588060664715aleR_JPEG/KakaoTalk_Photo_2022-07-26-12-20-35_007.jpeg",
   },
   {
     area: "서울",
@@ -530,6 +647,9 @@ const cafeInfo = [
     address: "신사동 535-13",
     off: "신정",
     parking: "x",
+    link: "https://naver.me/GBflIEAN",
+    image:
+      "https://ldb-phinf.pstatic.net/20200814_241/1597391408713EuXqV_JPEG/SF-DykLcHjV4zT672AzdKrxR.jpeg.jpg",
   },
   {
     area: "서울",
@@ -540,6 +660,9 @@ const cafeInfo = [
     address: "명동2가 105",
     off: "x",
     parking: "x",
+    link: "https://naver.me/G8UtUVup",
+    image:
+      "https://ldb-phinf.pstatic.net/20190605_297/15596704617557cePf_JPEG/47m2e1G1WQU_qACZz49QDgwK.jpg",
   },
   {
     area: "서울",
@@ -550,6 +673,9 @@ const cafeInfo = [
     address: "신림동 1636-61",
     off: "Mon",
     parking: "o",
+    link: "https://naver.me/F1LiQsIY",
+    image:
+      "https://ldb-phinf.pstatic.net/20221026_169/1666752886167lNB52_PNG/1666752858571.png",
   },
   {
     area: "서울",
@@ -560,6 +686,9 @@ const cafeInfo = [
     address: "영등포동 618-496",
     off: "신정",
     parking: "o",
+    link: "https://naver.me/5h3qA05m",
+    image:
+      "https://ldb-phinf.pstatic.net/20210917_113/1631881691975id8SB_JPEG/iMmwori-0EnuOad3u-hGOfYI.JPG.jpg",
   },
   {
     area: "서울",
@@ -570,6 +699,9 @@ const cafeInfo = [
     address: "황학동 753-33",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/FJHjuwbz",
+    image:
+      "https://ldb-phinf.pstatic.net/20210824_31/1629786212632stiX2_JPEG/A447mufEYwup91qfGPlfuh7E.jpeg.jpg",
   },
   {
     area: "서울",
@@ -580,16 +712,22 @@ const cafeInfo = [
     address: "신길동 625-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GpJeFAfI",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAzMjdfMTU3%2FMDAxNjQ4MzA3OTMxMzgx.aMuKKoGAKJ1Kt-XaKI5n2sXLFvEwFVq33SdvBlOYya0g.6XdTR7WSAnci-jqvrfTYIQLWVDiDSwOSbiuD4SEAklUg.JPEG.wsy3468%2FIMG_1074.jpg",
   },
   {
     area: "서울",
-    gu_si: "마포구",
-    dong: "연남",
-    theme: "한옥",
-    name: "청수당공명",
-    address: "연남동 239-48",
+    gu_si: "강남구",
+    dong: "신사",
+    theme: "외국",
+    name: "프론트서울",
+    address: "신사동 517-27",
     off: "x",
-    parking: "x",
+    parking: "o",
+    link: "https://naver.me/5jYrqOb1",
+    image:
+      "https://ldb-phinf.pstatic.net/20220821_230/16610726617184eFhQ_JPEG/KakaoTalk_20220818_123928227.jpg",
   },
   {
     area: "서울",
@@ -600,6 +738,9 @@ const cafeInfo = [
     address: "상수동 334-13",
     off: "x",
     parking: "x",
+    link: "https://naver.me/57XRVLhz",
+    image:
+      "https://ldb-phinf.pstatic.net/20220215_15/1644906188443529Hs_JPEG/E9CA874F-C7A3-4EAC-8E8F-148F273A12F7.jpeg",
   },
   {
     area: "서울",
@@ -610,6 +751,9 @@ const cafeInfo = [
     address: "당산동4가 32-64",
     off: "2nd,4th Tue",
     parking: "x",
+    link: "https://naver.me/x9JdO3y6",
+    image:
+      "https://ldb-phinf.pstatic.net/20220208_47/1644306664723JbR9J_JPEG/97386D25-59FC-42CC-BD67-44A0DA39C6DC.jpeg",
   },
   {
     area: "서울",
@@ -620,6 +764,9 @@ const cafeInfo = [
     address: "을지로2가 101-34",
     off: "x",
     parking: "x",
+    link: "https://naver.me/IIqf14Bp",
+    image:
+      "https://ldb-phinf.pstatic.net/20190121_43/1548072497857Io2mn_JPEG/sx5JPzlvf2rWu5Lbcu_Rdh6X.jpeg.jpg",
   },
   {
     area: "서울",
@@ -630,6 +777,9 @@ const cafeInfo = [
     address: "송파동 30-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GMRIxXdM",
+    image:
+      "https://ldb-phinf.pstatic.net/20220302_74/1646216995752svb38_JPEG/22F82BDF-3B1D-4107-A712-77C4C18498BA.jpeg",
   },
   {
     area: "서울",
@@ -640,6 +790,9 @@ const cafeInfo = [
     address: "익선동 166-37",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xMbHTAuT",
+    image:
+      "https://ldb-phinf.pstatic.net/20220809_238/1660031172357HezXi_JPEG/KakaoTalk_20220809_160811706_01.jpg",
   },
   {
     area: "서울",
@@ -650,6 +803,9 @@ const cafeInfo = [
     address: "신사동 544-9",
     off: "x",
     parking: "x",
+    link: "https://naver.me/F8KnLRhZ",
+    image:
+      "https://ldb-phinf.pstatic.net/20200815_212/1597491562575BzoVx_JPEG/hOnygyABl4cM_VJ0bUbltA_k.jpeg.jpg",
   },
   {
     area: "서울",
@@ -660,6 +816,9 @@ const cafeInfo = [
     address: "신당동 304-589",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/GFpeCRFj",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMDFfMTY2%2FMDAxNjY5ODIxNzk5NTAy.5j9oCPH2uTJojfv7t2oe3IrGkzqEMfBIXPO8r1awDEog.V9GT6GVZ8M-9f1LqyxproI948MdWbxP_Q4L6_nftPmwg.JPEG.cjiwons2%2FIMG_9524.JPG",
   },
   {
     area: "서울",
@@ -670,6 +829,9 @@ const cafeInfo = [
     address: "익선동 166-32",
     off: "x",
     parking: "x",
+    link: "https://naver.me/G0fchNtc",
+    image:
+      "https://ldb-phinf.pstatic.net/20220217_69/1645078270112X1ndX_PNG/KakaoTalk_20220217_150552521.png",
   },
   {
     area: "서울",
@@ -680,6 +842,9 @@ const cafeInfo = [
     address: "서계동 33-89",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xGbGzo8N",
+    image:
+      "https://ldb-phinf.pstatic.net/20220710_31/1657446111732TFaAC_JPEG/1C9F8C96-441F-49C1-AF7D-E385503AAF69.jpeg",
   },
   {
     area: "서울",
@@ -690,6 +855,9 @@ const cafeInfo = [
     address: "관훈동 155-2",
     off: "x",
     parking: "o",
+    link: "https://naver.me/Ff0HJTfx",
+    image:
+      "https://ldb-phinf.pstatic.net/20220629_285/1656480009616HHc4H_JPEG/KakaoTalk_20220628_010721618_08.jpg",
   },
   {
     area: "서울",
@@ -700,6 +868,9 @@ const cafeInfo = [
     address: "연남동 387-12",
     off: "x",
     parking: "x",
+    link: "https://naver.me/535BEQmF",
+    image:
+      "https://ldb-phinf.pstatic.net/20200909_19/15996469572311pwlP_JPEG/x9O42M0a44ix1LEDc6QFTf5c.jpg",
   },
   {
     area: "서울",
@@ -710,6 +881,9 @@ const cafeInfo = [
     address: "주교동 6-1",
     off: "Tue",
     parking: "o",
+    link: "https://naver.me/xaCZdBhq",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAzMTlfMjcz%2FMDAxNjQ3Njk0NzI5ODIz.MetBvj7CYeeNm2-dr8lmRpWzOwLqXxm6Imd7mHdwIBog.IO9r3WG6gjO4LkZEfzrduMYbMjpKxn8k7tvl8oT2NtIg.JPEG.na_na_space%2Fbatch_14.JPG",
   },
   {
     area: "서울",
@@ -720,6 +894,9 @@ const cafeInfo = [
     address: "창천동 52-49",
     off: "x",
     parking: "x",
+    link: "https://naver.me/G2UVUPvV",
+    image:
+      "https://ldb-phinf.pstatic.net/20201202_258/16068721358619Dyov_JPEG/8oPV0InOGobiAq6Yyee1L_Ww.jpg",
   },
   {
     area: "서울",
@@ -730,6 +907,9 @@ const cafeInfo = [
     address: "종로6가 94",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FyexeSsz",
+    image:
+      "https://ldb-phinf.pstatic.net/20181029_281/1540810617011sy24b_JPEG/8tijkRw7nBaxpU7ytY9379wf.jpeg.jpg",
   },
   {
     area: "서울",
@@ -740,6 +920,9 @@ const cafeInfo = [
     address: "연남동 245-51",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xPQ5YqOP",
+    image:
+      "https://ldb-phinf.pstatic.net/20220910_152/1662817690844h7Jim_JPEG/Screenshot_20220910-224420_Instagram.jpg",
   },
   {
     area: "서울",
@@ -750,6 +933,9 @@ const cafeInfo = [
     address: "서소문동 75-95",
     off: "Sun",
     parking: "o",
+    link: "https://naver.me/FiLEi2sl",
+    image:
+      "https://ldb-phinf.pstatic.net/20210928_37/1632796888350ajTMh_JPEG/CHo553O8_yHWf2c4dG7Kd-hz.jpeg.jpg",
   },
   {
     area: "서울",
@@ -760,6 +946,9 @@ const cafeInfo = [
     address: "익선동 166-77",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FEJd3HYq",
+    image:
+      "https://ldb-phinf.pstatic.net/20190424_215/1556089549360a7qmt_JPEG/_biz2mSbRxxyBLZQa1s-hvFQ.jpeg.jpg",
   },
   {
     area: "서울",
@@ -770,6 +959,9 @@ const cafeInfo = [
     address: "송파동 51-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FOvhs9YS",
+    image:
+      "https://ldb-phinf.pstatic.net/20210222_119/1613958739721sDjL0_JPEG/ShYrranmhCYLF0VMighLPGAQ.jpg",
   },
   {
     area: "서울",
@@ -780,6 +972,9 @@ const cafeInfo = [
     address: "연남동 223-20",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5L3o0yBh",
+    image:
+      "https://ldb-phinf.pstatic.net/20221216_153/1671170153683Jwxes_JPEG/1000013184.jpg",
   },
   {
     area: "서울",
@@ -790,16 +985,22 @@ const cafeInfo = [
     address: "서린동 128-2",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GnGCVU9B",
+    image:
+      "https://ldb-phinf.pstatic.net/20200917_28/16003438484816eVLa_JPEG/tgdGWAARGpvpsBG1Cnx8V3dR.jpeg.jpg",
   },
   {
     area: "서울",
     gu_si: "강남구",
     dong: "논현",
     theme: "외국",
-    name: "웨스크커프하우스",
+    name: "웨스트커프하우스",
     address: "논현동 95-8",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/x9LAaheY",
+    image:
+      "https://ldb-phinf.pstatic.net/20220812_66/1660311361508jJGyP_JPEG/19799840-A245-4ED0-BA96-94185278C09B.jpeg",
   },
   {
     area: "서울",
@@ -810,6 +1011,9 @@ const cafeInfo = [
     address: "서교동 409-11",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FLBKDlCe",
+    image:
+      "https://ldb-phinf.pstatic.net/20220905_242/1662342905628Spulm_JPEG/KakaoTalk_20220905_105252174.jpg",
   },
   {
     area: "서울",
@@ -820,6 +1024,9 @@ const cafeInfo = [
     address: "망원동 57-291",
     off: "x",
     parking: "x",
+    link: "https://naver.me/G0fcJEUV",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MDdfMjI5%2FMDAxNjQ5MzEwNzg0ODk1.3p82FYAxLg9ncf4EWTbJZTkVKsTYextRO9mspA6YPMQg.2haxj7sPUROQ4M6Oz1kUN3XfQRBFv50SxBBePf2gRJIg.JPEG.suji3489%2FIMG_9355.JPG",
   },
   {
     area: "서울",
@@ -830,6 +1037,9 @@ const cafeInfo = [
     address: "성수동1가 685-700",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FT0lrFyV",
+    image:
+      "https://ldb-phinf.pstatic.net/20210901_180/1630484770047Wky3q_JPEG/Jq2bDFBiZrt1jovl1X-EiSYe.JPG.jpg",
   },
   {
     area: "서울",
@@ -840,6 +1050,9 @@ const cafeInfo = [
     address: "익선동 166-45",
     off: "x",
     parking: "x",
+    link: "https://naver.me/58F7mIJU",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMjNfMjA0%2FMDAxNjcxNzgwNzc1ODE4.V4AV_-W3y7OYdXcxZ_O-NTHEmpJbSmQBPHtxXdZjB_Ag.q_d5h3_vIUToEDNTDmh_vBjKqmtfitjxu4Hy6BKK0aEg.JPEG.wish070%2F20221223%25A3%25DF123250.jpg",
   },
   {
     area: "서울",
@@ -850,6 +1063,9 @@ const cafeInfo = [
     address: "서교동 394-20",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FijcXqLc",
+    image:
+      "https://ldb-phinf.pstatic.net/20220719_48/1658223700589vxf1n_JPEG/IMG_7844.JPG",
   },
   {
     area: "서울",
@@ -860,16 +1076,22 @@ const cafeInfo = [
     address: "논현동 112-19",
     off: "x",
     parking: "o",
+    link: "https://naver.me/G7KAYKmn",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMjZfMjky%2FMDAxNjQzMTg2NzY4MjA4.JHTYeeLNNWHYobh7buCC6D-ftxtxhDwN6mA9evo5obcg.QimOuJ-Mfy0ImrTupsXlkZFKj5bCYJ611lMYk4HwI7Eg.JPEG.happy8038%2F1643186766811.jpg",
   },
   {
     area: "서울",
     gu_si: "성동구",
     dong: "뚝섬",
-    theme: "갤러리",
-    name: "이곳에",
-    address: "성수동1가 10-4",
-    off: "x",
-    parking: "o",
+    theme: "포근함",
+    name: "Dyi Workshop",
+    address: "성수동1가 685-432",
+    off: "Mon",
+    parking: "x",
+    link: "https://naver.me/G5IYIlLr",
+    image:
+      "https://ldb-phinf.pstatic.net/20220517_119/1652761742687byUcu_JPEG/20220510_%B0%F8%B0%A3%C1%F6%C8%C6_%C4%AB%C6%E459.jpg",
   },
   {
     area: "서울",
@@ -880,6 +1102,9 @@ const cafeInfo = [
     address: "신림동 1465-12",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xPIpBd3P",
+    image:
+      "https://ldb-phinf.pstatic.net/20200207_78/1581052958040n4n5U_JPEG/CR3uxWiE0jAZWeHrzpgoIC_i.jpeg.jpg",
   },
   {
     area: "서울",
@@ -890,6 +1115,9 @@ const cafeInfo = [
     address: "연희동 126-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5lZCfqOA",
+    image:
+      "https://ldb-phinf.pstatic.net/20210105_277/1609833800494Hlbax_JPEG/kreJOypM5uV-k933N4kNFo3i.jpg",
   },
   {
     area: "서울",
@@ -900,6 +1128,9 @@ const cafeInfo = [
     address: "충무로4가 32-16",
     off: "x",
     parking: "x",
+    link: "https://naver.me/Gz515RXW",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMTlfMzYg%2FMDAxNjcxNDEzNzMwMjk2.TOwDT_MVka2sf9OVQdyljVQdX7kcoTaXThl9ywiPz7wg.iH8O24x727rBRrwRqMJNb_zSXQerd_8qpGAr8Xyednkg.JPEG.kjw5313%2F%25C0%25BB%25C1%25F6%25B7%25CE%25B3%25EE%25B0%25C5%25B8%25AE_%25C4%25AB%25C6%25E4_%25BC%25B6%25B1%25A4-27.jpg",
   },
   {
     area: "서울",
@@ -910,6 +1141,9 @@ const cafeInfo = [
     address: "방이동 58-24",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FVPba9Nd",
+    image:
+      "https://ldb-phinf.pstatic.net/20220824_296/1661267883067aSniz_JPEG/C235B2FF-328C-451F-9FC3-D002AF1F4F6D.jpeg",
   },
   {
     area: "서울",
@@ -920,16 +1154,22 @@ const cafeInfo = [
     address: "신사동 555",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/xxxNM4ga",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MDhfMjA0%2FMDAxNjU0NjkxOTA4NjQx.hhW6mqIrWjAQ0rNdBkzBzxUfKjG6ReDtCrUEvvRfrE0g.utfxo5wsdVj6HXGoHRfyV27U0INnLnU0Oa6D4b57Dsgg.JPEG.chewingchoco%2FIMG_6212.jpg",
   },
   {
     area: "서울",
     gu_si: "용산구",
     dong: "한강진",
-    theme: "디저트",
-    name: "패션5",
-    address: "한남동 729-74",
+    theme: "힙",
+    name: "네로우패스",
+    address: "한남동 683-85",
     off: "x",
-    parking: "o",
+    parking: "x",
+    link: "https://naver.me/5y4qz1Uu",
+    image:
+      "https://ldb-phinf.pstatic.net/20220228_183/1646013981719WAgAE_JPEG/1645987462944.jpg",
   },
   {
     area: "서울",
@@ -940,16 +1180,22 @@ const cafeInfo = [
     address: "연남동 240-49",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xlWtuUrl",
+    image:
+      "https://ldb-phinf.pstatic.net/20220915_264/1663205025064CDqb3_JPEG/IMG_6722.jpg",
   },
   {
     area: "서울",
     gu_si: "성동구",
     dong: "성수",
-    theme: "힙",
+    theme: "무채색",
     name: "연무장",
     address: "성수동2가 310-63",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FS6OQXcG",
+    image:
+      "https://ldb-phinf.pstatic.net/20220826_121/1661486181890refbO_JPEG/DC8A1636.JPG",
   },
   {
     area: "서울",
@@ -960,6 +1206,9 @@ const cafeInfo = [
     address: "연남동 383-96",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/FABI8mts",
+    image:
+      "https://ldb-phinf.pstatic.net/20220215_4/1644894242704bg6vc_JPEG/15E82F92-18E6-46A9-BF5E-66D8BFFCB59F.jpeg",
   },
   {
     area: "서울",
@@ -970,6 +1219,9 @@ const cafeInfo = [
     address: "본동 8-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GvknMBsf",
+    image:
+      "https://ldb-phinf.pstatic.net/20220610_81/1654843831166wuJcN_JPEG/KakaoTalk_20220610_154923936_04.jpg",
   },
   {
     area: "서울",
@@ -980,6 +1232,9 @@ const cafeInfo = [
     address: "서교동 375-2",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GwEwmn4c",
+    image:
+      "https://ldb-phinf.pstatic.net/20221013_245/1665655687771GJI9I_JPEG/P20221013_105006052_9F6BE0DD-E119-4CB0-82F0-491BE386413E-2.jpg",
   },
   {
     area: "서울",
@@ -990,6 +1245,9 @@ const cafeInfo = [
     address: "연희동 90-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5L3ofM7r",
+    image:
+      "https://ldb-phinf.pstatic.net/20190416_72/1555399485280YO2i4_JPEG/Qj-EjO90kSAE1IaRW881ZEvg.JPG.jpg",
   },
   {
     area: "서울",
@@ -1000,16 +1258,48 @@ const cafeInfo = [
     address: "이태원동 548",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/GbEyGyq9",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA2MDhfMTUg%2FMDAxNTI4MzkwNDUzMDQ5.R2rejBkhxedmpQInX6MPX3sE-YgKNq3GqVwf6z_nXhUg.0Zcz0Ltl4OKibbqTfGNKwWy76emI_ipQJb3zMHiYEOEg.JPEG.218_208%2FKakaoTalk_20180608_014217193.jpg",
   },
   {
     area: "서울",
     gu_si: "중구",
     dong: "을지로",
-    theme: "앤틱",
-    name: "혜민당",
-    address: "을지로2가 101-37",
+    theme: "힙",
+    name: "부스",
+    address: "저동2가 48-25",
+    off: "Mon",
+    parking: "x",
+    link: "https://naver.me/5JHs9fIV",
+    image:
+      "https://ldb-phinf.pstatic.net/20220905_257/1662370956603baDrn_JPEG/KakaoTalk_20220830_203723696.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "중구",
+    dong: "을지로",
+    theme: "힙",
+    name: "공간갑",
+    address: "을지로3가 344-12",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5iziIoPy",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MTdfMjk1%2FMDAxNjYzMzc1MjM3ODE5.6hfDvZ-bI3YmJMRUMbtBV4pknwueQ-4HQ9SJX7yIFbwg.wcUXg-HI8yoK2tJ7iyWXjXRqb94tWhsl6XtK2Y4Mb7Ag.JPEG.ebgml24%2FIMG_6512.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "중구",
+    dong: "을지로",
+    theme: "이색",
+    name: "O'brett",
+    address: "을지로3가 5-7",
+    off: "Tue",
+    parking: "x",
+    link: "https://naver.me/GhE88R9F",
+    image:
+      "https://ldb-phinf.pstatic.net/20200313_92/1584085480159ERcQu_JPEG/YXYzPcgfT3JiiX3LzplwgUXR.JPG.jpg",
   },
   {
     area: "서울",
@@ -1020,6 +1310,22 @@ const cafeInfo = [
     address: "삼성동 168-27",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GbE6eouo",
+    image:
+      "https://ldb-phinf.pstatic.net/20220801_26/1659343683936GHRR0_PNG/1BAE5554.png",
+  },
+  {
+    area: "서울",
+    gu_si: "중구",
+    dong: "을지로",
+    theme: "뷰맛집",
+    name: "카다로그",
+    address: "을지로2가 101-2",
+    off: "Mon",
+    parking: "x",
+    link: "https://naver.me/xxxRyKjE",
+    image:
+      "https://ldb-phinf.pstatic.net/20221119_269/16688557505960kFWP_JPEG/%BC%F6%C1%A4%B5%CA_20200212_%2823%29.jpg",
   },
   {
     area: "서울",
@@ -1030,16 +1336,22 @@ const cafeInfo = [
     address: "한남동 747-7",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FmgVRdfJ",
+    image:
+      "https://ldb-phinf.pstatic.net/20220705_142/1657000812256t3a4r_JPEG/Grand-Hyatt-Seoul-Gallery-Window-View.jpg",
   },
   {
     area: "서울",
-    gu_si: "마포구",
-    dong: "상수",
-    theme: "힙",
-    name: "데우스 카페",
-    address: "서교동 408-10",
+    gu_si: "종로구",
+    dong: "삼청",
+    theme: "한옥",
+    name: "데우스카페 삼청",
+    address: "삼청동 21-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FsKzmgqD",
+    image:
+      "https://ldb-phinf.pstatic.net/20220915_79/1663222709946KjlEp_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2022-09-15_%BF%C0%C8%C4_3.18.17.png",
   },
   {
     area: "서울",
@@ -1050,6 +1362,9 @@ const cafeInfo = [
     address: "역삼동 725-57",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xTe4hx2f",
+    image:
+      "https://ldb-phinf.pstatic.net/20220405_79/1649148102296WgpyX_JPEG/KakaoTalk_20220405_173736518_06.jpg",
   },
   {
     area: "서울",
@@ -1060,6 +1375,9 @@ const cafeInfo = [
     address: "당산동6가 323",
     off: "Tue",
     parking: "o",
+    link: "https://naver.me/FBklTXVv",
+    image:
+      "https://ldb-phinf.pstatic.net/20221118_57/1668766778386IgBPd_JPEG/DSCF8459.jpg",
   },
   {
     area: "서울",
@@ -1070,6 +1388,9 @@ const cafeInfo = [
     address: "성수동1가 685-290",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FNmg5HDe",
+    image:
+      "https://ldb-phinf.pstatic.net/20210630_37/16250468775945BKbX_JPEG/72TE2zIoIwsNg_yguCvtEQU_.jpg",
   },
   {
     area: "서울",
@@ -1080,6 +1401,9 @@ const cafeInfo = [
     address: "망원동 57-50",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5zJ2IdQA",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MDNfMTA4%2FMDAxNjU2ODUyMDcyMDE3.7Md8WiivZrIGE3SXSTGDF-3Q4T2px_7nmzZwuTIORasg.GUOjSmfMfak5FDrXGUVIg9RXG-RzGHXNAnNhP4VoAREg.JPEG.danrain90%2FIMG_0993.jpg",
   },
   {
     area: "서울",
@@ -1090,16 +1414,22 @@ const cafeInfo = [
     address: "용산동2가 1-349",
     off: "1st Tue",
     parking: "x",
+    link: "https://naver.me/GfaGkzKF",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMDRfMjMy%2FMDAxNjQxMjUzMzgxNTU4.p_LULet5uIjVdr69DlelU6__O85n5P8pRUdzsvjy_aog.oq9IBysr7rXzFmx3DKxwZHZHag0Z4fJsnSw1ZtGItvQg.JPEG.cafecrawl%2FKakaoTalk_20220104_082549332_01.jpg",
   },
   {
     area: "서울",
-    gu_si: "성동구",
-    dong: "뚝섬",
-    theme: "주택개조",
-    name: "카멜커피",
-    address: "성수동1가 685-310",
-    off: "x",
-    parking: "x",
+    gu_si: "용산구",
+    dong: "한남",
+    theme: "디저트",
+    name: "사베",
+    address: "한남동 31-7",
+    off: "Mon",
+    parking: "o",
+    link: "https://naver.me/FpM67fpo",
+    image:
+      "https://ldb-phinf.pstatic.net/20220916_209/1663313743785rRH4q_JPEG/facade.jpg",
   },
   {
     area: "서울",
@@ -1110,6 +1440,9 @@ const cafeInfo = [
     address: "문래동2가 42-19",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5OnGGzrh",
+    image:
+      "https://ldb-phinf.pstatic.net/20221110_21/1668070793270nCyUR_JPEG/%A4%A1%A4%A1_%287%29.JPG",
   },
   {
     area: "서울",
@@ -1120,6 +1453,9 @@ const cafeInfo = [
     address: "익선동 126-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FkmM7v1Y",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMDZfMjUx%2FMDAxNjQxNDc2NDg4OTY1.uP5YttqArFQN6hQAf_JllqklyEXt8YSdB5OwBW8R12wg.MnNlypgSlWJbJIatwlLmf3HgtLkkXISqLgruPGzTcZUg.JPEG.pablemo_on%2FIMG_5804.jpg",
   },
   {
     area: "서울",
@@ -1130,6 +1466,9 @@ const cafeInfo = [
     address: "성수동2가 328-13",
     off: "insta",
     parking: "x",
+    link: "https://naver.me/5uxfhdLO",
+    image:
+      "https://ldb-phinf.pstatic.net/20210619_59/16240758542581cT7T_JPEG/J3qo_H3TV3Vu8r0ITa1pX3Rl.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1140,6 +1479,9 @@ const cafeInfo = [
     address: "연남동 381-15",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xJNaNcBC",
+    image:
+      "https://ldb-phinf.pstatic.net/20201207_110/16072687274774P21e_JPEG/iyyginXruhsADawA_XdbZIq4.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1150,26 +1492,35 @@ const cafeInfo = [
     address: "연남동 387-15",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/xVlzdNMz",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjExMTJfMTA0%2FMDAxNjY4MjI3NTQ0MjQ3.L2qA_XWZWrKNcPeTQ99Os2-UnzBY8GF8pl88rXupEfog.TvjoZWaHXI0CF5Z-Mi0JP-EWJEC1Z91baVWPGuzc9JEg.JPEG.nayeon940%2FIMG_8587.jpg",
   },
   {
     area: "서울",
     gu_si: "종로구",
-    dong: "익선",
-    theme: "한옥",
-    name: "감꽃당",
-    address: "익선동 166-17",
-    off: "x",
+    dong: "혜화",
+    theme: "뷰맛집",
+    name: "N321",
+    address: "동숭동 201-17",
+    off: "Mon,Tue",
     parking: "x",
+    link: "https://naver.me/GG4i3iNi",
+    image:
+      "https://ldb-phinf.pstatic.net/20220915_185/16631711411365SKEz_JPEG/8CD0BBD3-32AA-4DBF-9450-52013D41DE9D.jpeg",
   },
   {
     area: "서울",
     gu_si: "마포구",
     dong: "상수",
-    theme: "디저트",
+    theme: "힙",
     name: "틸다제이",
     address: "상수동 313-6",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GxOBgAJx",
+    image:
+      "https://ldb-phinf.pstatic.net/20221103_146/1667417280612muWuz_JPEG/20221020_111603_mh1666239675071_1.jpg",
   },
   {
     area: "서울",
@@ -1180,6 +1531,9 @@ const cafeInfo = [
     address: "명동1가 59-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/x8lsDEFl",
+    image:
+      "https://ldb-phinf.pstatic.net/20210322_266/1616395573428qpjYn_PNG/FLoDUPJ2cr-5p0fSA92VV-kx.png",
   },
   {
     area: "서울",
@@ -1190,6 +1544,9 @@ const cafeInfo = [
     address: "성수동1가 668-97",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/xWpur6qW",
+    image:
+      "https://ldb-phinf.pstatic.net/20221005_99/1664966725228VlFTj_JPEG/%A1%DAKakaoTalk_20221005_163141947.jpg",
   },
   {
     area: "서울",
@@ -1200,16 +1557,22 @@ const cafeInfo = [
     address: "연남동 382-14",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5hgoe01l",
+    image:
+      "https://ldb-phinf.pstatic.net/20220113_192/1642050443668afdrT_JPEG/7677E5F9-1B62-4ED9-BA17-25BDD948317C.jpeg",
   },
   {
     area: "서울",
-    gu_si: "종로구",
-    dong: "종로",
-    theme: "앤틱",
-    name: "에일당",
-    address: "익선동 166-34",
+    gu_si: "마포구",
+    dong: "홍대",
+    theme: "외국",
+    name: "오퍼카페",
+    address: "서교동 355-3",
     off: "x",
-    parking: "x",
+    parking: "o",
+    link: "https://naver.me/xnndHeid",
+    image:
+      "https://ldb-phinf.pstatic.net/20221023_33/1666463243723AmFK5_PNG/14.png",
   },
   {
     area: "서울",
@@ -1220,6 +1583,9 @@ const cafeInfo = [
     address: "연남동 226-26",
     off: "x",
     parking: "x",
+    link: "https://naver.me/IDB1xaaz",
+    image:
+      "https://ldb-phinf.pstatic.net/20201017_269/1602912655063HcOht_JPEG/jDm6LHSaCnjn_7ErZCb_ToxF.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1230,6 +1596,9 @@ const cafeInfo = [
     address: "동교동 178-11",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FFvG2TDR",
+    image:
+      "https://ldb-phinf.pstatic.net/20210405_123/1617634193465cWc1m_JPEG/6ZtNnBV_3mDJHratTCxTeiUE.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1240,6 +1609,9 @@ const cafeInfo = [
     address: "신사동 597-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5cDjfBMz",
+    image:
+      "https://ldb-phinf.pstatic.net/20220818_214/1660808488934wjwpM_JPEG/A4699144-1CA9-401B-AC8D-17D4C7919391.jpeg",
   },
   {
     area: "서울",
@@ -1250,6 +1622,9 @@ const cafeInfo = [
     address: "화양동 5-32",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FT0knagE",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAyMDhfMTc5%2FMDAxNjEyNzYzNjc4NTAx.ALtNgCp7wBJoSCJzBoSI8LL0ZUcwizSF4Fbdsx7zxdAg.g55XOZpukr0dXRdXq85KTDZcQhHGqNDDmuWzRNRuLpEg.JPEG.dus1478963%2FP20210207_200825373_F40A5EDE-74C7-4B19-BB70-46D8301F7309.jpg",
   },
   {
     area: "서울",
@@ -1260,6 +1635,9 @@ const cafeInfo = [
     address: "용산동2가 1-471",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FHYuYaTi",
+    image:
+      "https://ldb-phinf.pstatic.net/20191023_151/1571802376942rUqFr_JPEG/v_CVFxrsHNkaxXa3A_-aU2D5.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1270,6 +1648,9 @@ const cafeInfo = [
     address: "망원동 410-10",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FcamJful",
+    image:
+      "https://ldb-phinf.pstatic.net/20210708_60/1625715594946H53E1_JPEG/zX7mIbdHP57T2UjcJqOqMssk.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1280,6 +1661,9 @@ const cafeInfo = [
     address: "화양동 33-43",
     off: "x",
     parking: "x",
+    link: "https://naver.me/IDB1Swxq",
+    image:
+      "https://ldb-phinf.pstatic.net/20210413_259/1618261456757RrUQx_JPEG/AP7s5gumlYaCN-2t79uaDxJ2.jpg",
   },
   {
     area: "서울",
@@ -1290,26 +1674,35 @@ const cafeInfo = [
     address: "한남동 657-21",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/G8moAGb3",
+    image:
+      "https://ldb-phinf.pstatic.net/20221216_237/1671165112215LqK7S_JPEG/%BE%E7%B8%BB%BB%E7%C1%F82.jpg",
   },
   {
     area: "서울",
     gu_si: "중구",
     dong: "시청",
     theme: "뷰맛집",
-    name: "리에젤와플 더 뷰",
+    name: "리에제와플 더 뷰",
     address: "태평로2가 366-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xfxAxsbh",
+    image:
+      "https://ldb-phinf.pstatic.net/20220701_291/1656659985774pM3av_JPEG/%BA%E4%B8%C0%C1%FD.jpg",
   },
   {
     area: "서울",
     gu_si: "마포구",
     dong: "가좌",
     theme: "외국",
-    name: "르빵드파리 앤 브런치 하우스",
+    name: "르빵드파리",
     address: "연남동 246-4",
     off: "x",
     parking: "x",
+    link: "https://naver.me/F31LFqAc",
+    image:
+      "https://ldb-phinf.pstatic.net/20221129_235/1669697916948kGds3_JPEG/%B8%A3%BB%A7%B5%E5_%BB%E7%C1%F8.jpg",
   },
   {
     area: "서울",
@@ -1320,6 +1713,9 @@ const cafeInfo = [
     address: "성수동1가 685-483",
     off: "x",
     parking: "x",
+    link: "https://naver.me/Fk5dbZLB",
+    image:
+      "https://ldb-phinf.pstatic.net/20220110_133/1641824403108PYJNp_JPEG/8930F484-3CD6-4AC4-A046-E718C8FC3E12.jpeg",
   },
   {
     area: "서울",
@@ -1330,6 +1726,9 @@ const cafeInfo = [
     address: "서교동 364-20",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FbisGrvC",
+    image:
+      "https://ldb-phinf.pstatic.net/20220905_224/16623668530641qIlU_JPEG/IMG_3151.jpg",
   },
   {
     area: "서울",
@@ -1340,16 +1739,22 @@ const cafeInfo = [
     address: "망원동 57-12",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GZAj0Eqy",
+    image:
+      "https://ldb-phinf.pstatic.net/20211213_177/1639374033096ihuCv_JPEG/IMG_0771.jpg",
   },
   {
     area: "서울",
     gu_si: "성동구",
     dong: "성수",
     theme: "무채색",
-    name: "루프",
+    name: "루프 베이커리",
     address: "성수동2가 302-43",
     off: "x",
     parking: "x",
+    link: "https://naver.me/535ByXxP",
+    image:
+      "https://ldb-phinf.pstatic.net/20210204_46/1612401031389Hg67k_JPEG/MGG32Yaa4mEVKiHpFWsBtNjk.jpg",
   },
   {
     area: "서울",
@@ -1360,6 +1765,9 @@ const cafeInfo = [
     address: "쌍림동 22-16",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5VeAfC8z",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDlfMTAx%2FMDAxNjYwMDU0NDQ5NDE4.JRLkH5N87t8WjgrcoS1xEY0_hGJ8j5CG-LZMMgjQNLIg.Si_T-VOFiSwa21iriVEcCGCyO-gq85vJQgQWyLngM5cg.JPEG.ginasuji%2FIMG_5938.jpg",
   },
   {
     area: "서울",
@@ -1370,16 +1778,22 @@ const cafeInfo = [
     address: "신사동 517-29",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FU35Pmin",
+    image:
+      "https://ldb-phinf.pstatic.net/20210524_276/1621841977327EO8BY_JPEG/QA5q5YBkpYrXiCnkXx0HrkUk.jpg",
   },
   {
     area: "서울",
-    gu_si: "관악구",
-    dong: "봉천",
-    theme: "무채색",
+    gu_si: "성동구",
+    dong: "뚝섬",
+    theme: "디저트",
     name: "온더",
-    address: "봉천동 1670-1",
+    address: "성수동1가 7-13",
     off: "x",
-    parking: "x",
+    parking: "o",
+    link: "https://naver.me/x2PkMpPM",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MjBfMTgz%2FMDAxNjIxNTEyNzIwMjM0.VO7dFAr_Fw8td_C8Tk3oQ9KMWrb3WumNkjv9__2tZjgg.r8vTNDBcHYzEAC4ICo92KqZnLUZjeGRTFQ-CtKQuDYYg.JPEG.jjininimms%2FDSC08398.jpg",
   },
   {
     area: "서울",
@@ -1390,6 +1804,9 @@ const cafeInfo = [
     address: "연남동 504-50",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GFpeeJMx",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MjdfODUg%2FMDAxNjI3MzQ1MjU5NTc2.vwrXbNxzc3pYvz0lhDd9zFrOoJupqmUrztJUaI-_LEAg.g1VS3QxnBtpHCnUKDjh8GFOv6zFQ6Cz4sdRwLntGyvAg.JPEG.ugogirl96%2FKakaoTalk_20210726_071632571_01.jpg",
   },
   {
     area: "서울",
@@ -1400,6 +1817,9 @@ const cafeInfo = [
     address: "서교동 328-74",
     off: "신정",
     parking: "x",
+    link: "https://naver.me/xpPET6wq",
+    image:
+      "https://ldb-phinf.pstatic.net/20210909_1/1631160025758rVXME_JPEG/Lf39mp4-Uow_1mTms3Guh_bq.jpeg.jpg",
   },
   {
     area: "서울",
@@ -1410,6 +1830,9 @@ const cafeInfo = [
     address: "석촌동 58-24",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/G0IsYetj",
+    image:
+      "https://ldb-phinf.pstatic.net/20220708_146/1657241444122Gopfp_JPEG/7.jpeg",
   },
   {
     area: "서울",
@@ -1420,6 +1843,9 @@ const cafeInfo = [
     address: "문래동2가 33-4",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FTO5egeG",
+    image:
+      "https://ldb-phinf.pstatic.net/20220406_47/1649205846440PbTrS_JPEG/pont_mullae_001.jpg",
   },
   {
     area: "서울",
@@ -1430,6 +1856,9 @@ const cafeInfo = [
     address: "서빙고동 195-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GQcoS9ZT",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMjhfMTk1%2FMDAxNjQzMzUyMjEzNjU0.hKGT2C_tv0JQkhKC4To9gBgJwHHaTlOVIiq6pPGw2mEg.zR8YKVEZqka7aIYBmk9PEYB4msUbwPfkI3EdrU1ptrcg.JPEG.cjaezero%2FIMG_8724.jpg",
   },
   {
     area: "서울",
@@ -1440,6 +1869,9 @@ const cafeInfo = [
     address: "합정동 426-18",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FzHm9yZF",
+    image:
+      "https://ldb-phinf.pstatic.net/20180718_132/1531902568681jBDV6_JPEG/WciZ4iyNBr66V6A6KbQYq-Tr.jpg",
   },
   {
     area: "서울",
@@ -1450,6 +1882,9 @@ const cafeInfo = [
     address: "다동 117",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/xdIk6iBo",
+    image:
+      "https://ldb-phinf.pstatic.net/20221208_197/1670472169726ohrGt_JPEG/C3043976-8C7C-402F-A973-E028BCA29C7D.jpeg",
   },
   {
     area: "서울",
@@ -1460,6 +1895,9 @@ const cafeInfo = [
     address: "동교동 113-83",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FZJ6utbu",
+    image:
+      "https://ldb-phinf.pstatic.net/20210606_80/1622957251633uBdjW_JPEG/K5LJJeJGighoHd4L3N1gjEpU.jpg",
   },
   {
     area: "서울",
@@ -1470,6 +1908,9 @@ const cafeInfo = [
     address: "연남동 244-1",
     off: "M,T,W",
     parking: "x",
+    link: "https://naver.me/GA1SligJ",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA1MjVfOCAg%2FMDAxNjUzNDY3NTQ1NTk1.KVmRsTPDE8erCcGA6bGGJYhO15sNNuaBRZVllLns5-og.Lk8Qn3uAwNrS-SEke4kYx84w-8HVZPpfWm8YeXMlNQsg.JPEG.mayeye1004%2FIMG_2292.jpg",
   },
   {
     area: "서울",
@@ -1480,6 +1921,9 @@ const cafeInfo = [
     address: "동교동 148-9",
     off: "x",
     parking: "x",
+    link: "https://naver.me/F9Qpjz9B",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMDNfNzkg%2FMDAxNjcyNzU0ODY5MTUy.XgSWciWiXoyKK6Q2_oCSeIMmxFweismgcvl_O-XH9JMg.d7_4OsaQrQWiR5_8vS7qtS4HoWaGtclikC8DS6ToHrUg.JPEG.tszx9207%2FIMG_8837.JPG",
   },
   {
     area: "서울",
@@ -1490,6 +1934,9 @@ const cafeInfo = [
     address: "화양동 5-3",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xdVrSkqO",
+    image:
+      "https://ldb-phinf.pstatic.net/20220529_80/1653758621504KKmWy_JPEG/KakaoTalk_20220529_022223806_01.jpg",
   },
   {
     area: "서울",
@@ -1500,6 +1947,9 @@ const cafeInfo = [
     address: "서교동 398-5",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5OntKUwb",
+    image:
+      "https://ldb-phinf.pstatic.net/20200329_180/1585442218524j0oTR_JPEG/DpsZdCn2D39zJjLg94KrUT6a.jpg",
   },
   {
     area: "서울",
@@ -1510,16 +1960,22 @@ const cafeInfo = [
     address: "하왕십리동 972-33",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GQcephBU",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAyMDZfMjY2%2FMDAxNjQ0MTMxODQwODAz.02S_IJmxX4KBJ_Zy6xe1JXEfGkKc-MDWzLx025umyBkg.GVzhOuwLn3xF8V5JDv8v_XwMo3yLTuO5Zm0RIIkme5Ag.JPEG.witch3211%2F20220205_165750.jpg",
   },
   {
     area: "서울",
     gu_si: "강남구",
     dong: "압구정",
-    theme: "힙",
+    theme: "이색",
     name: "페인팅룸",
     address: "신사동 644-13",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FzHmLHbT",
+    image:
+      "https://ldb-phinf.pstatic.net/20220524_23/16533713881882mnWs_JPEG/1653368062347.jpg",
   },
   {
     area: "서울",
@@ -1530,6 +1986,9 @@ const cafeInfo = [
     address: "문래동2가 60-9",
     off: "x",
     parking: "x",
+    link: "https://naver.me/Fdsfdbw8",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEyMjdfMjU0%2FMDAxNjQwNjAzNDc5MTk4.hlYBmN2ptoGXwJmGJealoorsRNH8HnvvXdJXJDj-3r0g.P4YV20vmIPU-QH3lLGMZE9BiOFJAU_VyGHTuZ3A_12Mg.JPEG.su406%2FIMG_2172.jpg",
   },
   {
     area: "서울",
@@ -1540,6 +1999,9 @@ const cafeInfo = [
     address: "한남동 683-140",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5Q4GIRso",
+    image:
+      "https://ldb-phinf.pstatic.net/20180426_166/1524721255503DlppS_JPEG/6LXLh-aVMUbqBk8rE--V597R.jpg",
   },
   {
     area: "서울",
@@ -1550,6 +2012,9 @@ const cafeInfo = [
     address: "성수동1가 685-420",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/5PZ3SDpa",
+    image:
+      "https://ldb-phinf.pstatic.net/20220722_108/1658467450805i6Fzb_JPEG/3E94C3D3-2EDB-47A4-87A6-770E5C928793.jpg",
   },
   {
     area: "서울",
@@ -1560,16 +2025,9 @@ const cafeInfo = [
     address: "성수동1가 656-1097",
     off: "x",
     parking: "x",
-  },
-  {
-    area: "서울",
-    gu_si: "성동구",
-    dong: "성수",
-    theme: "포근함",
-    name: "io3 ",
-    address: "성수동2가 269-25",
-    off: "x",
-    parking: "o",
+    link: "https://naver.me/5DbjFKTp",
+    image:
+      "https://ldb-phinf.pstatic.net/20220704_250/1656904023378T52qj_JPEG/D5AD1559-C73D-4997-806B-95AC3631C331.jpeg",
   },
   {
     area: "경기",
@@ -1580,6 +2038,9 @@ const cafeInfo = [
     address: "별내동 719-2",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5SWasKcR",
+    image:
+      "https://ldb-phinf.pstatic.net/20191111_209/15734489718515ujdE_JPEG/QNEBRFHiyYsO5X6eot9yEcEk.jpg",
   },
   {
     area: "경기",
@@ -1590,6 +2051,9 @@ const cafeInfo = [
     address: "별내동 659",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5vIiEcPf",
+    image:
+      "https://ldb-phinf.pstatic.net/20220620_70/1655652610752cz3j1_JPEG/KakaoTalk_20220609_164915499_02.jpg",
   },
   {
     area: "서울",
@@ -1600,6 +2064,9 @@ const cafeInfo = [
     address: "옥인동 산3-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FGoe3mEj",
+    image:
+      "https://ldb-phinf.pstatic.net/20221125_69/1669340172603Hn8la_JPEG/0D269C2D-5EE6-4315-9F13-CAFAFB811546.jpeg",
   },
   {
     area: "서울",
@@ -1610,6 +2077,9 @@ const cafeInfo = [
     address: "수유동 산76",
     off: "x",
     parking: "o",
+    link: "https://naver.me/Gv97eP7S",
+    image:
+      "https://ldb-phinf.pstatic.net/20220817_172/1660703601542hKSqc_JPEG/IMG_7226.jpg",
   },
   {
     area: "서울",
@@ -1620,6 +2090,9 @@ const cafeInfo = [
     address: "부암동 97-5",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5fnjEUN3",
+    image:
+      "https://ldb-phinf.pstatic.net/20190529_35/1559062899693b4E2n_JPEG/RRUvkPF-XvvbwFz6yEulEPVv.JPG.jpg",
   },
   {
     area: "서울",
@@ -1630,6 +2103,9 @@ const cafeInfo = [
     address: "상봉동 190-119",
     off: "W,T,Sun",
     parking: "o",
+    link: "https://naver.me/5s92uf4S",
+    image:
+      "https://ldb-phinf.pstatic.net/20221031_58/1667163565458fLmy1_JPEG/1E0FAB99-14E1-41BE-A4A1-3919F5A48AA4.jpeg",
   },
   {
     area: "서울",
@@ -1640,16 +2116,22 @@ const cafeInfo = [
     address: "수유동 221-18",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FFviHKQt",
+    image:
+      "https://ldb-phinf.pstatic.net/20201001_17/1601489606186fQOLH_JPEG/jZLHRLPNxFod3oWFAExNHTuH.jpeg.jpg",
   },
   {
     area: "서울",
     gu_si: "성북구",
     dong: "성신",
     theme: "무채색",
-    name: "피알디",
+    name: "PRD",
     address: "동선동4가 127",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/FMw2cU05",
+    image:
+      "https://ldb-phinf.pstatic.net/20220513_27/1652444477807eoMtj_JPEG/E953EE7C-311C-4BF8-99FD-7571C0BC6833.jpeg",
   },
   {
     area: "서울",
@@ -1658,8 +2140,11 @@ const cafeInfo = [
     theme: "대형",
     name: "오버스토리",
     address: "성북동 8-28",
-    off: "Mon,Sun",
+    off: "예약제",
     parking: "x",
+    link: "https://naver.me/5PS2R247",
+    image:
+      "https://ldb-phinf.pstatic.net/20200715_80/1594788301681WrXMk_JPEG/Ua8zhLO0rO9pzhTRLbypN1CI.jpg",
   },
   {
     area: "경기",
@@ -1670,6 +2155,9 @@ const cafeInfo = [
     address: "창우동 287-1",
     off: "x",
     parking: "o",
+    link: "https://naver.me/Fgivtt1G",
+    image:
+      "https://ldb-phinf.pstatic.net/20220422_80/1650626424615SBl47_JPEG/AD57AB15-1213-405E-9C55-CF221C7FE724.jpeg",
   },
   {
     area: "경기",
@@ -1680,6 +2168,9 @@ const cafeInfo = [
     address: "금곡동 14-1",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5DHEEXWl",
+    image:
+      "https://ldb-phinf.pstatic.net/20211015_165/16342982605743Rlcy_JPEG/x2soyAj3sjt7EBEt7uktdDL-.jpg",
   },
   {
     area: "경기",
@@ -1690,6 +2181,9 @@ const cafeInfo = [
     address: "별내동 1148-6",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FEJOHR8b",
+    image:
+      "https://ldb-phinf.pstatic.net/20210908_227/1631096865762jffsU_JPEG/2YXEPaRKd8yi2B_H0jVMPnJE.jpeg.jpg",
   },
   {
     area: "경기",
@@ -1700,6 +2194,9 @@ const cafeInfo = [
     address: "삼봉리 200-18",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FmgVT8IU",
+    image:
+      "https://ldb-phinf.pstatic.net/20211228_220/16406941924980rzTh_JPEG/KakaoTalk_20211228_205420061_07.jpg",
   },
   {
     area: "경기",
@@ -1710,6 +2207,9 @@ const cafeInfo = [
     address: "금남리 671",
     off: "x",
     parking: "o",
+    link: "https://naver.me/56IDFXeL",
+    image:
+      "https://ldb-phinf.pstatic.net/20210607_89/1623030336448DCPhA_JPEG/uMt0Uqw-EKhUejIC6Mfd4arO.jpg",
   },
   {
     area: "경기",
@@ -1718,6 +2218,11 @@ const cafeInfo = [
     theme: "한옥",
     name: "하우스 베이커리",
     address: "문호리 338-1",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/GJrF3UyN",
+    image:
+      "https://ldb-phinf.pstatic.net/20181104_138/1541298745385tcsyz_JPEG/oLJrOmesRm46px3bV5nbPCUd.JPG.jpg",
   },
   {
     area: "경기",
@@ -1728,6 +2233,9 @@ const cafeInfo = [
     address: "별내동 2286-17",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GMRvA4di",
+    image:
+      "https://ldb-phinf.pstatic.net/20210309_191/1615279049262I1Ib0_JPEG/qy3g6MUMEX9kok7M6WOPC-ML.jpg",
   },
   {
     area: "경기",
@@ -1736,8 +2244,11 @@ const cafeInfo = [
     theme: "힙",
     name: "수디",
     address: "송천리 306-1",
-    off: "연말",
+    off: "Mon",
     parking: "o",
+    link: "https://naver.me/5yXvKixi",
+    image:
+      "https://ldb-phinf.pstatic.net/20211127_142/1637987328336QXkdu_JPEG/003A0C32-2207-4A66-B451-848A7B38DD77.jpeg",
   },
   {
     area: "경기",
@@ -1748,6 +2259,9 @@ const cafeInfo = [
     address: "금남리 689",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FbRh37vN",
+    image:
+      "https://ldb-phinf.pstatic.net/20221219_90/1671425135635mzbGL_JPEG/KakaoTalk_20221219_125410548_04.jpg",
   },
   {
     area: "경기",
@@ -1758,6 +2272,9 @@ const cafeInfo = [
     address: "묵현리 150-1",
     off: "x",
     parking: "o",
+    link: "https://naver.me/55I693Kp",
+    image:
+      "https://ldb-phinf.pstatic.net/20211129_100/1638173832150VodlQ_PNG/%BA%A31111112.png",
   },
   {
     area: "경기",
@@ -1768,156 +2285,9 @@ const cafeInfo = [
     address: "문호리 623",
     off: "x",
     parking: "o",
-  },
-  {
-    area: "서울",
-    gu_si: "강북구",
-    dong: "수유",
-    theme: "주택개조",
-    name: "레트포션 테라스",
-    address: "수유동 224-26",
-    off: "x",
-    parking: "x",
-  },
-  {
-    area: "경기",
-    gu_si: "남양주",
-    dong: "진접",
-    theme: "대형",
-    name: "달빛새 베이커리앤카페",
-    address: "내각리 473",
-    off: "x",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "남양주",
-    dong: "진접",
-    theme: "이색",
-    name: "그날그날",
-    address: "금곡리 778",
-    off: "Tue",
-    parking: "o",
-  },
-  {
-    area: "서울",
-    gu_si: "노원구",
-    dong: "노원",
-    theme: "힙",
-    name: "뮤어카페",
-    address: "상계동 693",
-    off: "Wen",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "의정부",
-    dong: "의정부",
-    theme: "포근함",
-    name: "옴브레",
-    address: "의정부동 176-10",
-    off: "Tue",
-    parking: "x",
-  },
-  {
-    area: "서울",
-    gu_si: "노원구",
-    dong: "노원",
-    theme: "디저트",
-    name: "시즌",
-    address: "상계동 358-6",
-    off: "x",
-    parking: "x",
-  },
-  {
-    area: "경기",
-    gu_si: "남양주",
-    dong: "화도",
-    theme: "외국",
-    name: "더하이브",
-    address: "월산리 288-2",
-    off: "x",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "남양주",
-    dong: "별내",
-    theme: "디저트",
-    name: "산들제빵소",
-    address: "별내동 785-1",
-    off: "x",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "의정부",
-    dong: "의정부",
-    theme: "무채색",
-    name: "앤앤드",
-    address: "의정부동 176-14",
-    off: "Wen",
-    parking: "x",
-  },
-  {
-    area: "서울",
-    gu_si: "노원구",
-    dong: "공릉",
-    theme: "주택개조",
-    name: "위플랜트위커피",
-    address: "공릉동 587-1",
-    off: "x",
-    parking: "x",
-  },
-  {
-    area: "서울",
-    gu_si: "노원구",
-    dong: "노원",
-    theme: "앤틱",
-    name: "감각",
-    address: "상계동 337",
-    off: "x",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "남양주",
-    dong: "다산",
-    theme: "포근함",
-    name: "요피",
-    address: "다산동 6060-2",
-    off: "x",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "의정부",
-    dong: "민락",
-    theme: "포근함",
-    name: "커피하다",
-    address: "민락동 819-1",
-    off: "x",
-    parking: "o",
-  },
-  {
-    area: "서울",
-    gu_si: "강북구",
-    dong: "수유",
-    theme: "힙",
-    name: "티틸Cafe+Bar",
-    address: "수유동 221-21",
-    off: "Tue",
-    parking: "o",
-  },
-  {
-    area: "경기",
-    gu_si: "구리",
-    dong: "구리",
-    theme: "주택개조",
-    name: "피어네",
-    address: "수택동 521-54",
-    off: "wen",
-    parking: "x",
+    link: "https://naver.me/59jNjKCl",
+    image:
+      "https://ldb-phinf.pstatic.net/20201010_57/16023277141841KhDO_JPEG/nDv-stu7VdsNkibDeI2kdGAq.jpg",
   },
   {
     area: "서울",
@@ -1928,6 +2298,191 @@ const cafeInfo = [
     address: "수유동 224-26",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xrt2kHwn",
+    image:
+      "https://ldb-phinf.pstatic.net/20220223_267/1645614547871PAeKR_JPEG/Screenshot_20220223-200606_Instagram.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "남양주",
+    dong: "진접",
+    theme: "대형",
+    name: "달빛새 베이커리앤카페",
+    address: "내각리 473",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/5zJolYYs",
+    image:
+      "https://ldb-phinf.pstatic.net/20220823_212/16612395078158BkQ1_JPEG/%B3%B2%BE%E7%C1%D6%C4%AB%C6%E4_%B4%DE%BA%FB%BB%F5%BA%A3%C0%CC%C4%BF%B8%AE_53.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "남양주",
+    dong: "진접",
+    theme: "이색",
+    name: "그날그날",
+    address: "금곡리 778",
+    off: "Tue",
+    parking: "o",
+    link: "https://naver.me/FPseB2pF",
+    image:
+      "https://ldb-phinf.pstatic.net/20211001_83/1633055416367NuXmg_JPEG/DlDt7VU-BElx3aRDijy4f-98.jpeg.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "노원구",
+    dong: "노원",
+    theme: "힙",
+    name: "뮤어카페",
+    address: "상계동 693",
+    off: "Wen",
+    parking: "o",
+    link: "https://naver.me/5CbGwDLW",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjNfMjcg%2FMDAxNjY2NDkzMjA5NDkz.IQBcPDTe90O1fXqbrtoPR6xJHm1bRjH3YqWZI0L62DIg.KjYClKUxOb6b8sfqms7JWUhTeGuenUoryB4vxiznq5kg.JPEG.abcsk0319%2FIMG_1099.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "의정부",
+    dong: "의정부",
+    theme: "포근함",
+    name: "옴브레",
+    address: "의정부동 176-10",
+    off: "Tue",
+    parking: "x",
+    link: "https://naver.me/FWvyJdh1",
+    image:
+      "https://ldb-phinf.pstatic.net/20220420_82/1650451265425xkt5T_JPEG/0E7A2469.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "노원구",
+    dong: "노원",
+    theme: "디저트",
+    name: "시즌",
+    address: "상계동 358-6",
+    off: "x",
+    parking: "x",
+    link: "https://naver.me/Fgivr80N",
+    image:
+      "https://ldb-phinf.pstatic.net/20200604_264/1591260698406KVfS6_JPEG/gVMyoQGImeSkoQ78cUp2gNiT.jpeg.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "남양주",
+    dong: "화도",
+    theme: "외국",
+    name: "더하이브",
+    address: "월산리 288-2",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/xJNavPBa",
+    image:
+      "https://ldb-phinf.pstatic.net/20180719_238/1532003577725xA5Hy_JPEG/mph2icbv6z80kHDWCUKJn8qi.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "남양주",
+    dong: "별내",
+    theme: "디저트",
+    name: "산들제빵소",
+    address: "별내동 785-1",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/xDs6WaZB",
+    image:
+      "https://ldb-phinf.pstatic.net/20191209_114/1575859058079mCmCh_JPEG/FI8WYPt8lNbp-34gADFgUOiD.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "의정부",
+    dong: "의정부",
+    theme: "무채색",
+    name: "앤앤드",
+    address: "의정부동 176-14",
+    off: "Wen",
+    parking: "x",
+    link: "https://naver.me/xB4P7scp",
+    image:
+      "https://ldb-phinf.pstatic.net/20210419_148/1618836329484DRfve_JPEG/DfKZ69yFOkj7ZX8J9t_MHoI-.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "노원구",
+    dong: "공릉",
+    theme: "주택개조",
+    name: "위플랜트위커피",
+    address: "공릉동 587-1",
+    off: "x",
+    parking: "x",
+    link: "https://naver.me/5oQi8B2J",
+    image:
+      "https://ldb-phinf.pstatic.net/20191230_9/1577692788825zjG1i_JPEG/w7rUEIuLlUmc_PnYAj2UH8in.jpeg.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "노원구",
+    dong: "노원",
+    theme: "앤틱",
+    name: "감각",
+    address: "상계동 337",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/GGhUuAJW",
+    image:
+      "https://ldb-phinf.pstatic.net/20190428_7/155642426842097bSz_JPEG/8o9GdutpA2a3s3mGITU_5s7G.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "남양주",
+    dong: "다산",
+    theme: "포근함",
+    name: "요피",
+    address: "다산동 6060-2",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/xIhatUrE",
+    image:
+      "https://ldb-phinf.pstatic.net/20211005_229/16334343409838KqVk_JPEG/wwrnDFYgik3uHSw-_kl2Q73i.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "의정부",
+    dong: "민락",
+    theme: "포근함",
+    name: "커피하다",
+    address: "민락동 819-1",
+    off: "x",
+    parking: "o",
+    link: "https://naver.me/xjeJVkiL",
+    image:
+      "https://ldb-phinf.pstatic.net/20190912_42/1568276680131vUfYY_JPEG/MiRWh8e_YNQhacI5mojV-ZRu.jpeg.jpg",
+  },
+  {
+    area: "서울",
+    gu_si: "강북구",
+    dong: "수유",
+    theme: "힙",
+    name: "티틸Cafe+Bar",
+    address: "수유동 221-21",
+    off: "Tue",
+    parking: "o",
+    link: "https://naver.me/x8ByGfMA",
+    image:
+      "https://ldb-phinf.pstatic.net/20221013_207/1665658378476xOLcK_JPEG/DSCF2498.jpg",
+  },
+  {
+    area: "경기",
+    gu_si: "구리",
+    dong: "구리",
+    theme: "주택개조",
+    name: "피어네",
+    address: "수택동 521-54",
+    off: "wen",
+    parking: "x",
+    link: "https://naver.me/FCb4NO0b",
+    image:
+      "https://ldb-phinf.pstatic.net/20211214_263/16394750565418w536_JPEG/%C7%C7%BE%EE%B3%D7_%BF%DC%BA%CE.jpg",
   },
   {
     area: "경기",
@@ -1938,6 +2493,9 @@ const cafeInfo = [
     address: "오남리 30-5",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GWFrobLw",
+    image:
+      "https://ldb-phinf.pstatic.net/20221222_99/1671688390430SQw6R_JPEG/%A4%A4%A4%B7%A4%B8%A4%A1324324.jpg",
   },
   {
     area: "서울",
@@ -1948,6 +2506,9 @@ const cafeInfo = [
     address: "수유동 182-46",
     off: "wen",
     parking: "x",
+    link: "https://naver.me/x22TpV71",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjNfNDgg%2FMDAxNjU1OTcxNTg1OTQ1.ap5pExlUFzyF6z38TFj-NEPijatgZc4lpcC_WLg8yzkg.CkkY6VxOXYdN1F_VG6dsjpF80dp-Z9N5K4HynpUOQy8g.JPEG.dajungaaa%2Foutput_3181659090.jpg",
   },
   {
     area: "경기",
@@ -1958,6 +2519,9 @@ const cafeInfo = [
     address: "마석우리 514-13",
     off: "x",
     parking: "o",
+    link: "https://naver.me/F9VYrCnU",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjhfNzgg%2FMDAxNjY2OTY3NTA4NjI4.2KUZeMZQ6MSunzeomIwI8768e3ksCbovdGrTcRQAQIAg.FRmGXC0kZDhr04llqpVV59EJh07y6p2t05DTkyT5nZsg.JPEG.sy2eh%2FIMG_6677.JPG",
   },
   {
     area: "경기",
@@ -1968,6 +2532,9 @@ const cafeInfo = [
     address: "문호리 640-1",
     off: "Tue",
     parking: "o",
+    link: "https://naver.me/FqSHE6DC",
+    image:
+      "https://ldb-phinf.pstatic.net/20180820_265/1534728521024qWuYx_JPEG/A40ePOCNkmfcvWUBEAkqH8k6.jpeg.jpg",
   },
   {
     area: "경기",
@@ -1978,6 +2545,9 @@ const cafeInfo = [
     address: "청학리 551",
     off: "x",
     parking: "o",
+    link: "https://naver.me/535B08C2",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA5MjhfMjY5%2FMDAxNjMyODE2NTk3MzQx.NCNIJzdKFasZBz1JtyZGN36pJiy1I5FMdy_ICDkh-Gwg.QK7lZ6VjMSomjO8bOsW5aTqxlySif4XV5MGUQdAenwwg.JPEG.eueuy%2F20210928_170835.jpg",
   },
   {
     area: "서울",
@@ -1988,6 +2558,9 @@ const cafeInfo = [
     address: "수유동 189-37",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5bRNPpD7",
+    image:
+      "https://ldb-phinf.pstatic.net/20220214_34/1644813475593Ap9yy_JPEG/25B5B887-3B02-42E4-952F-A3A3D9CDAEDC.jpeg",
   },
   {
     area: "경기",
@@ -1998,6 +2571,9 @@ const cafeInfo = [
     address: "일패동 561-2",
     off: "x",
     parking: "o",
+    link: "https://naver.me/I5FcW3vL",
+    image:
+      "https://ldb-phinf.pstatic.net/20210603_138/1622706381398dWsq4_JPEG/ubidGtQl9RO9ZSuXmLMHX_9s.jpeg.jpg",
   },
   {
     area: "경기",
@@ -2008,26 +2584,22 @@ const cafeInfo = [
     address: "금남리 657-2",
     off: "x",
     parking: "o",
-  },
-  {
-    area: "서울",
-    gu_si: "강북구",
-    dong: "수유",
-    theme: "힙",
-    name: "구테로이테",
-    address: "수유동 740",
-    off: "x",
-    parking: "o",
+    link: "https://naver.me/535BBEal",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MjBfNDkg%2FMDAxNjI2NzY4MjY3NDgx.2NQH3yQW6ZKs5SEQJBY7sDlWwSRMS4aDktDqskiwf40g.ZJN3U65V2PHIEYZRDBKL2Zdt1FkMuy9nIUmVeCQWMnMg.JPEG.sy920125%2FKakaoTalk_20210720_125521005_02.jpg",
   },
   {
     area: "서울",
     gu_si: "도봉구",
     dong: "쌍문",
     theme: "뷰맛집",
-    name: "세이지",
+    name: "카페 세이지",
     address: "쌍문동 167-6",
     off: "Tue",
     parking: "o",
+    link: "https://naver.me/xBh2Z0j7",
+    image:
+      "https://ldb-phinf.pstatic.net/20221024_97/16665938508952XNHS_JPEG/1666593792759-0.jpg",
   },
   {
     area: "서울",
@@ -2038,6 +2610,9 @@ const cafeInfo = [
     address: "미아동 127-9",
     off: "x",
     parking: "x",
+    link: "https://naver.me/F0Kw55QD",
+    image:
+      "https://ldb-phinf.pstatic.net/20190204_137/1549212805018QTWb0_PNG/i2fDWplpuc2dxZ9ixhz0vhvz.png",
   },
   {
     area: "서울",
@@ -2048,6 +2623,9 @@ const cafeInfo = [
     address: "미아동 695-3",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/IFFjz7X2",
+    image:
+      "https://ldb-phinf.pstatic.net/20221115_266/1668464662023cz3SI_JPEG/1667810598593.jpg",
   },
   {
     area: "서울",
@@ -2058,6 +2636,9 @@ const cafeInfo = [
     address: "하월곡동 133",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/GjRGnNvn",
+    image:
+      "https://ldb-phinf.pstatic.net/20190510_271/1557446828368qnY8g_JPEG/x0x9HZ3d2R-s5ZfhSOrDhyOF.jpg",
   },
   {
     area: "서울",
@@ -2068,6 +2649,9 @@ const cafeInfo = [
     address: "미아동 52-68",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/xTeAPe2n",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDFfMTk3%2FMDAxNjU5MzM3NjA1Njk5.zlUd3a_qfb0MSdJZFiUl53t02f-YRnw1uieO_nXlRwkg.8KWVdQjvQ1fi1oi36mvuzEuf28yGnDZvGEK5FfutQi0g.JPEG.ahcldk%2FIMG_8768.JPG",
   },
   {
     area: "서울",
@@ -2078,6 +2662,9 @@ const cafeInfo = [
     address: "길음동 1171-14",
     off: "Thur",
     parking: "x",
+    link: "https://naver.me/GGhUM4hA",
+    image:
+      "https://ldb-phinf.pstatic.net/20170529_97/1496029171194BIsPN_JPEG/186477426636976_2.jpeg",
   },
   {
     area: "서울",
@@ -2088,6 +2675,9 @@ const cafeInfo = [
     address: "미아동 465-46",
     off: "Sun",
     parking: "x",
+    link: "https://naver.me/Fgi9OEay",
+    image:
+      "https://ldb-phinf.pstatic.net/20210720_33/1626747568137KESAA_JPEG/aZHYTyU-FwEHvDhy2oYBUdoJ.jpg",
   },
   {
     area: "서울",
@@ -2098,6 +2688,9 @@ const cafeInfo = [
     address: "미아동 87-177",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GPrhfs1u",
+    image:
+      "https://ldb-phinf.pstatic.net/20211121_277/16374535800808jWYX_JPEG/1A204572-3DE7-4ABB-B3F4-DA925E2FFCF6.jpeg",
   },
   {
     area: "인천",
@@ -2108,6 +2701,9 @@ const cafeInfo = [
     address: "내리 724-132",
     off: "Wen",
     parking: "o",
+    link: "https://naver.me/FEJdw6q8",
+    image:
+      "https://ldb-phinf.pstatic.net/20190521_289/1558404864782qnXQ3_JPEG/_tQbCM7Lamdkehbtq-uLNF2f.jpeg.jpg",
   },
   {
     area: "경기",
@@ -2118,6 +2714,9 @@ const cafeInfo = [
     address: "신풍동 221-19",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5wHCypuy",
+    image:
+      "https://ldb-phinf.pstatic.net/20221103_227/16674563437402wi3S_JPEG/1667031231588-1.jpg",
   },
   {
     area: "경기",
@@ -2128,6 +2727,9 @@ const cafeInfo = [
     address: "북수동 15-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GguVXIUQ",
+    image:
+      "https://ldb-phinf.pstatic.net/20221115_35/1668507796209emRQU_JPEG/2654BCED-FCBF-4F5C-B8B7-C9ED0BFA999E.jpeg",
   },
   {
     area: "경기",
@@ -2138,6 +2740,9 @@ const cafeInfo = [
     address: "매산로1가 114-9",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GyyeMu8M",
+    image:
+      "https://ldb-phinf.pstatic.net/20221116_283/1668580034611zsjnf_JPEG/2022-11-13-23-04-46-094.jpg",
   },
   {
     area: "인천",
@@ -2148,6 +2753,9 @@ const cafeInfo = [
     address: "송도동 169",
     off: "Wen",
     parking: "o",
+    link: "https://naver.me/GPF4PgVE",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMjNfMTYz%2FMDAxNjcxNzc2OTU4MzE2.9MAxmBAN_bGm1bSyqUcLvSSVjR5-0S6x_HoFyHpMBNYg.HXrwLPkwGy_Z5I5ll-6-DmjRlIhavfImnMQ1AnIw2esg.JPEG.170309%2Foutput_321253510.jpg",
   },
   {
     area: "경기",
@@ -2158,8 +2766,9 @@ const cafeInfo = [
     address: "사동 1563-4",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GBlqZhJA",
     image:
-      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMzFfMTYw%2FMDAxNjY3MTgzNTMzMTkz.LeZQ8yEInkQxRLwH5RrW-QIRuOEQdzgiVkUNUf1y3nYg.S993OJTvLfDtZKXgk27CqRx9-JDvmAVksf9U558DF6cg.JPEG.hje1725%2F20221029_180203.jpg",
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMDVfMTAz%2FMDAxNjcwMjQ0NzE5MTE1.EMNaMsaipBBpATVY2WUL-BPxJsKzjqWEBDMP7LFtHRIg.67jkzzhJm-j37PYXS6sJovzZ5NtZrC9d-tSwABBF8mcg.JPEG.dahyun0120%2FIMG_4308.jpg",
   },
   {
     area: "경기",
@@ -2170,6 +2779,9 @@ const cafeInfo = [
     address: "장안동 124",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/FJH6Gftu",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMjlfMjIg%2FMDAxNjcyMzIzNjI4MDc1.LYzl-yGkjS2dwALkqJ4WpAUNvGK5Z9JxEedcWClbo-wg.EjfUefJ1bxc485_w7UvERzlz3pOb5G7-MwWt9U4K9Uog.JPEG.gmlwn5315%2FIMG_7821.jpg",
   },
   {
     area: "경기",
@@ -2180,6 +2792,9 @@ const cafeInfo = [
     address: "북수동 145-1 1층",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GvkXMAuo",
+    image:
+      "https://ldb-phinf.pstatic.net/20191001_100/1569912971785mml7i_JPEG/b3XEhF8Z6G8Aw8bbEP5RhjJ3.jpeg.jpg",
   },
   {
     area: "경기",
@@ -2190,6 +2805,9 @@ const cafeInfo = [
     address: "보통리 588",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FVPbUAwm",
+    image:
+      "https://ldb-phinf.pstatic.net/20220302_179/1646193695600GKH7l_JPEG/KakaoTalk_20220227_111143348_10.jpg",
   },
   {
     area: "경기",
@@ -2200,6 +2818,9 @@ const cafeInfo = [
     address: "고색동 42-26",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FBwtFExR",
+    image:
+      "https://ldb-phinf.pstatic.net/20210908_281/1631105972398eCpWl_JPEG/-bKgh6GO1JnPVdrm9-VV2H7U.jpeg.jpg",
   },
   {
     area: "경기",
@@ -2210,6 +2831,9 @@ const cafeInfo = [
     address: "대부북동 1851-7",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GnG4wd4t",
+    image:
+      "https://ldb-phinf.pstatic.net/20220408_276/1649396402971KtBqj_JPEG/KakaoTalk_20220408_143023784.jpg",
   },
   {
     area: "경기",
@@ -2220,6 +2844,9 @@ const cafeInfo = [
     address: "매산로3가 94-28",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/xRQ0Zub5",
+    image:
+      "https://ldb-phinf.pstatic.net/20210409_202/1617945104488TB48E_JPEG/sKrKThiXQFRbSb7CYeQTxOj4.jpeg.jpg",
   },
   {
     area: "인천",
@@ -2230,6 +2857,9 @@ const cafeInfo = [
     address: "송도동 83",
     off: "x",
     parking: "o",
+    link: "https://naver.me/G6DyDwNm",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjhfMTMg%2FMDAxNjY0MzM3ODg5ODc0.TTzsWCtoOGcF0gJK71_2Dq79qIwVYK1jCqEUdHV2bCMg.uFZpQuGLEb6qu3b1cfq-AxB88fHxUJ2DWV_8DcUxl0Mg.JPEG.our0602%2FIMG_5983.JPG",
   },
   {
     area: "경기",
@@ -2240,6 +2870,9 @@ const cafeInfo = [
     address: "고색동 464-5",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5wfHb4qU",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEyMjVfMTgz%2FMDAxNjQwNDQ0MzEzMTUx.luAb9UckZN_9TOT6j8Glow4ApV4yoBDe-wCrJnjSJ68g.h1FIRf_5LVP5CFhWKUtoLcXD2KFyBD-xug7jLWDQTuYg.JPEG.haha3981%2FIMG_3127.jpg",
   },
   {
     area: "경기",
@@ -2250,6 +2883,9 @@ const cafeInfo = [
     address: "고잔동 540-11",
     off: "x",
     parking: "x",
+    link: "https://naver.me/F1ISr38N",
+    image:
+      "https://ldb-phinf.pstatic.net/20210725_183/1627186618167omfOy_JPEG/TYBhQZoU-eiLV5Mk0H6y1sD3.jpeg.jpg",
   },
   {
     area: "경기",
@@ -2260,16 +2896,9 @@ const cafeInfo = [
     address: "신풍동 151",
     off: "Tue",
     parking: "x",
-  },
-  {
-    area: "경기",
-    gu_si: "군포",
-    dong: "대야미",
-    theme: "한옥",
-    name: "홍종흔베이커리",
-    address: "대야미동 5",
-    off: "x",
-    parking: "o",
+    link: "https://naver.me/5zoAWzxY",
+    image:
+      "https://ldb-phinf.pstatic.net/20221004_299/1664874502570ij6R0_JPEG/C74D7F2C-C432-4A6B-8E37-6794391EE390.jpeg",
   },
   {
     area: "경기",
@@ -2280,6 +2909,9 @@ const cafeInfo = [
     address: "대부북동 1870-78",
     off: "Wen",
     parking: "o",
+    link: "https://naver.me/F2v9RNpn",
+    image:
+      "https://ldb-phinf.pstatic.net/20211002_262/1633125094834x82W0_JPEG/AZ2L70B_8jpHtviVhZK_tdBO.jpeg.jpg",
   },
   {
     area: "인천",
@@ -2290,16 +2922,22 @@ const cafeInfo = [
     address: "송도동 174-1",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FxLXJ4TT",
+    image:
+      "https://ldb-phinf.pstatic.net/20220910_154/16627890270864dCcL_JPEG/3B630B17-6AFD-443C-B5E3-ACB63F7E8E8E.jpeg",
   },
   {
     area: "인천",
     gu_si: "옹진",
     dong: "선재도",
     theme: "외국",
-    name: "플로레도 선재점",
+    name: "플로레도 선재도",
     address: "선재리 636-10",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xqfovjcW",
+    image:
+      "https://ldb-phinf.pstatic.net/20220617_239/1655444847277b7BJi_JPEG/KakaoTalk_20220617_144434492_04.jpg",
   },
   {
     area: "인천",
@@ -2310,6 +2948,9 @@ const cafeInfo = [
     address: "송도동 169",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xZDOqItY",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA5MjlfMjY5%2FMDAxNjMyODk3NzI2MTU4.0zqomfa6Vy9HWlNCoE94x5LlTRHtT0vS4XOPLfVYZQIg.94Uz1cVD8cqaQOW3LxY1eUF7tP1z9ZWE3BPyZmpBAnQg.JPEG.one5692%2FIMG_3021.jpg",
   },
   {
     area: "경기",
@@ -2320,6 +2961,9 @@ const cafeInfo = [
     address: "정왕동 2030-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5RctoVCi",
+    image:
+      "https://ldb-phinf.pstatic.net/20190402_48/1554202917726jIWJg_JPEG/Py_fe3C2gXQWVni3lX-UX8qP.jpg",
   },
   {
     area: "경기",
@@ -2330,6 +2974,9 @@ const cafeInfo = [
     address: "팔달로1가 11-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/x7rhc7EP",
+    image:
+      "https://ldb-phinf.pstatic.net/20221030_247/1667097628930nF2AF_JPEG/481D5257-CE0C-484C-8FB5-B120DD78CD49.jpeg",
   },
   {
     area: "경기",
@@ -2340,6 +2987,9 @@ const cafeInfo = [
     address: "장안동 119-24",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FZJrauPB",
+    image:
+      "https://ldb-phinf.pstatic.net/20211104_222/1635958619881pmxOe_JPEG/xFKLoK2D94mFKPSo0cMSBI2K.jpg",
   },
   {
     area: "경기",
@@ -2350,6 +3000,9 @@ const cafeInfo = [
     address: "고잔동 540-3",
     off: "2nd Mon",
     parking: "x",
+    link: "https://naver.me/xQNAq6PC",
+    image:
+      "https://ldb-phinf.pstatic.net/20221029_11/1667028802375qsASf_JPEG/KakaoTalk_20221029_162956190_04.jpg",
   },
   {
     area: "경기",
@@ -2360,6 +3013,9 @@ const cafeInfo = [
     address: "대부북동 1870-96",
     off: "x",
     parking: "o",
+    link: "https://naver.me/GDc4vT2f",
+    image:
+      "https://ldb-phinf.pstatic.net/20211116_42/1637031786468qMLtr_JPEG/F3E68F74-FBA7-4B40-9966-20271104AA4F.jpeg",
   },
   {
     area: "경기",
@@ -2370,6 +3026,9 @@ const cafeInfo = [
     address: "장안동 28-10",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FdGhzZZx",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjRfODUg%2FMDAxNjY2NTk1OTI5NDY1.ki6HVRjZY8SzDnFE_3w69jHWXyUV_jL7lFCpKJ8OQbAg.U9tXzU4K-NqJ2oJoxiZmbfbAp1Zkj38sAXwWSSqgnIkg.JPEG.dajum0214%2F20221016%25A3%25DF165829.jpg",
   },
   {
     area: "경기",
@@ -2380,6 +3039,9 @@ const cafeInfo = [
     address: "매산로3가 128-12",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FFvifkwE",
+    image:
+      "https://ldb-phinf.pstatic.net/20221202_123/1669937629739zE1iU_JPEG/KakaoTalk_Photo_2022-08-02-08-56-29-3.jpeg",
   },
   {
     area: "경기",
@@ -2390,6 +3052,9 @@ const cafeInfo = [
     address: "대부북동 1836-16",
     off: "x",
     parking: "o",
+    link: "https://naver.me/xNdljwSm",
+    image:
+      "https://ldb-phinf.pstatic.net/20221026_10/1666763244981Ykt6S_JPEG/0461E99D-B666-4AAF-A947-B291F271C5AC.jpeg",
   },
   {
     area: "경기",
@@ -2400,16 +3065,22 @@ const cafeInfo = [
     address: "신풍동 132-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/xNoEVv0n",
+    image:
+      "https://ldb-phinf.pstatic.net/20220628_88/1656405686581XxigB_JPEG/KakaoTalk_20220628_174033938_02.jpg",
   },
   {
     area: "인천",
     gu_si: "옹진",
     dong: "영흥도",
     theme: "뷰맛집",
-    name: "플로레도커피",
+    name: "플로레도 영흥도",
     address: "내리 213-32",
     off: "x",
     parking: "o",
+    link: "https://naver.me/5Z0vSFQ5",
+    image:
+      "https://ldb-phinf.pstatic.net/20221127_208/1669513824824cjjHT_JPEG/KakaoTalk_20221127_104855935.jpg",
   },
   {
     area: "경기",
@@ -2420,6 +3091,9 @@ const cafeInfo = [
     address: "북수동 39-1",
     off: "x",
     parking: "x",
+    link: "https://naver.me/5pjq8Glq",
+    image:
+      "https://ldb-phinf.pstatic.net/20220404_155/1649070089268Oym83_JPEG/%BF%DC%BA%CE.jpg",
   },
   {
     area: "경기",
@@ -2430,6 +3104,9 @@ const cafeInfo = [
     address: "신풍동 221-25",
     off: "x",
     parking: "x",
+    link: "https://naver.me/GdJ1bv6q",
+    image:
+      "https://ldb-phinf.pstatic.net/20201210_219/1607610212860j0N8G_JPEG/0tIPIaFeoKl-wqYTEM_NRp2I.jpg",
   },
   {
     area: "경기",
@@ -2440,6 +3117,9 @@ const cafeInfo = [
     address: "고잔동 534-3",
     off: "x",
     parking: "o",
+    link: "https://naver.me/50ofsl2T",
+    image:
+      "https://ldb-phinf.pstatic.net/20221227_11/1672108539600VTWB5_JPEG/image.jpg",
   },
   {
     area: "경기",
@@ -2450,6 +3130,9 @@ const cafeInfo = [
     address: "북수동 64",
     off: "Tue",
     parking: "x",
+    link: "https://naver.me/5DH3bsDL",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDJfNzAg%2FMDAxNjI3OTEwNjIxNDUy.-JFbOp-7wl4P6QGUw-RiQZa3y9VpMuTGjRdWQdMvMLMg.5_L0mzabqusZ7T8p9zFtzpGbC6JTq6enSmLnE_ci1hAg.JPEG.im_yewon_v%2Foutput_3058030572.jpg",
   },
   {
     area: "경기",
@@ -2460,6 +3143,9 @@ const cafeInfo = [
     address: "안양동 674-270",
     off: "Mon",
     parking: "x",
+    link: "https://naver.me/FhyfhZdG",
+    image:
+      "https://ldb-phinf.pstatic.net/20230102_84/16726472380931St1K_JPEG/0CC53906-5C28-45E3-A3C5-E5620BC3CFD0.jpeg",
   },
   {
     area: "경기",
@@ -2470,6 +3156,9 @@ const cafeInfo = [
     address: "장안동 281-1",
     off: "Thur",
     parking: "x",
+    link: "https://naver.me/xpaDfl53",
+    image:
+      "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMjFfMjI1%2FMDAxNjcxNTgzMjIxOTY3.d_ILWDfaordAKZOFo63tJTb-A1e_J81ousT5Uvcbl9kg.pwQo5LwDg5WkY_snXqf9fi0z1OeCeMglK1SgROq7NRog.JPEG.delay-%2FIMG_7237.jpg",
   },
   {
     area: "인천",
@@ -2480,6 +3169,9 @@ const cafeInfo = [
     address: "송도동 169",
     off: "x",
     parking: "x",
+    link: "https://naver.me/FjojD06z",
+    image:
+      "https://ldb-phinf.pstatic.net/20220821_196/1661089432606CnaQW_JPEG/_PAC6273.jpg",
   },
   {
     area: "경기",
@@ -2490,6 +3182,9 @@ const cafeInfo = [
     address: "배곧동 214",
     off: "x",
     parking: "o",
+    link: "https://naver.me/FHuTmRxq",
+    image:
+      "https://ldb-phinf.pstatic.net/20221002_174/1664639968545T4f5q_JPEG/KakaoTalk_20221002_005846878_03.jpg",
   },
   {
     area: "경기",
@@ -2500,6 +3195,9 @@ const cafeInfo = [
     address: "북수동 297-2",
     off: "x",
     parking: "x",
+    link: "https://naver.me/57w89tPj",
+    image:
+      "https://ldb-phinf.pstatic.net/20220614_52/1655194640349gi3GG_JPEG/CF67786A-0781-4D16-9862-3C6150E3CD29.jpeg",
   },
   {
     area: "경기",
