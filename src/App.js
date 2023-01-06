@@ -2,28 +2,26 @@
 
 import React, { Component, useState } from "react";
 import "./App.css";
-import CafeInfo from "./cafe";
-import Popup from "./C_component/pop";
+import CafeInfo from "./data/cafe";
+import Area from "./data/area";
+import Category from "./C_component/Category";
 
 const AREA = [
-  { value: "", name: "전국" },
+  { value: "", name: "Area" },
   { value: "서울", name: "서울" },
   { value: "경기", name: "경기" },
   { value: "인천", name: "인천" },
   { value: "광주", name: "광주" },
-  { value: "강원", name: "강원" },
-  { value: "경북", name: "경북" },
-  { value: "경남", name: "경남" },
   { value: "대전", name: "대전" },
-  { value: "전북", name: "전북" },
-  { value: "전남", name: "전남" },
-  { value: "충북", name: "충북" },
-  { value: "충남", name: "충남" },
-  { value: "제주", name: "제주" },
+  { value: "강원도", name: "강원도" },
+  { value: "전라도", name: "전라도" },
+  { value: "충청도", name: "충청도" },
+  { value: "경상도", name: "경상도" },
+  { value: "제주도", name: "제주도" },
 ];
 
 const THEME = [
-  { value: "", name: "테마" },
+  { value: "", name: "Concept" },
   { value: "디저트", name: "디저트" },
   { value: "무채색", name: "무채색" },
   { value: "포근함", name: "포근함" },
@@ -38,30 +36,6 @@ const THEME = [
   { value: "드로잉", name: "드로잉" },
 ];
 
-const AreaSelect = (props) => {
-  return (
-    <select onChange={props.onChange}>
-      {props.options.map((option) => (
-        <option key={option.value} value={option.value}>
-          {option.name}
-        </option>
-      ))}
-    </select>
-  );
-};
-
-const ThemeSelect = (props) => {
-  return (
-    <select onChange={props.onChange}>
-      {props.options.map((option) => (
-        <option key={option.value} value={option.value}>
-          {option.name}
-        </option>
-      ))}
-    </select>
-  );
-};
-
 function movePage(dataurl) {
   location.href = dataurl;
 }
@@ -71,25 +45,19 @@ function App() {
   const [selectTh, settheme] = useState("");
   const [selectsigu, setsigu] = useState("");
 
-  const GUSI = CafeInfo.filter((data) => {
+  const GUSI = Area.filter((area) => {
     if (selectArea == "" && selectTh == "") {
-      return data;
-    } else if (data.area.includes(selectArea)) return data;
-  })
-    .map((data, index) => {
-      const gusiSet = [];
-      if (!gusiSet.includes(data.gu_si) && data.area.includes(selectArea)) {
-        gusiSet.push(data.gu_si);
-      }
-      return gusiSet;
-    })
-    .map((gusiSet, index) => {
-      return (
-        <option key={gusiSet} value={gusiSet}>
-          {gusiSet}
-        </option>
-      );
-    });
+      return;
+    } else if (area.top.includes(selectArea)) {
+      return area;
+    }
+  }).map((area, index) => {
+    return (
+      <option key={area.value} value={area.value}>
+        {area.name}
+      </option>
+    );
+  });
 
   const items = CafeInfo.filter((data) => {
     if (selectArea == "" && selectTh == "" && selectsigu == "") return data;
@@ -123,26 +91,28 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
-        <h2>Cafe</h2>
-      </div>
-      <div className="selectBOx">
-        <AreaSelect
-          options={AREA}
-          onChange={(e) => setArea(e.target.value)}
-        ></AreaSelect>
+        <h1>Cafe</h1>
+        <hr />
+        <div className="selectBOx">
+          <Category
+            options={AREA}
+            onChange={(e) => setArea(e.target.value)}
+          ></Category>
 
-        <select onChange={(e) => setsigu(e.target.value)}>
-          <option key="" value="구/시">
-            구/시
-          </option>
-          {GUSI}
-        </select>
+          <select onChange={(e) => setsigu(e.target.value)}>
+            <option key="" value="" disabled selected>
+              Gu/Si
+            </option>
+            {GUSI}
+          </select>
 
-        <ThemeSelect
-          options={THEME}
-          onChange={(e) => settheme(e.target.value)}
-        ></ThemeSelect>
+          <Category
+            options={THEME}
+            onChange={(e) => settheme(e.target.value)}
+          ></Category>
+        </div>
       </div>
+
       <div className="card_list">{items}</div>
     </div>
   );
