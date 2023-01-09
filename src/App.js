@@ -90,27 +90,22 @@ function App() {
 
   return (
     <div className="App">
-      <div className="App-header">
+      <div className="selectBOx">
         <h1>Cafe</h1>
-        <hr />
-        <div className="selectBOx">
-          <Category
-            options={AREA}
-            onChange={(e) => setArea(e.target.value)}
-          ></Category>
-
-          <select onChange={(e) => setsigu(e.target.value)}>
-            <option key="" value="" disabled selected>
-              Gu/Si
-            </option>
-            {GUSI}
-          </select>
-
-          <Category
-            options={THEME}
-            onChange={(e) => settheme(e.target.value)}
-          ></Category>
-        </div>
+        <Category
+          options={AREA}
+          onChange={(e) => setArea(e.target.value)}
+        ></Category>
+        <select onChange={(e) => setsigu(e.target.value)}>
+          <option key="" value="" disabled selected>
+            Gu/Si
+          </option>
+          {GUSI}
+        </select>
+        <Category
+          options={THEME}
+          onChange={(e) => settheme(e.target.value)}
+        ></Category>
       </div>
 
       <div className="card_list">{items}</div>

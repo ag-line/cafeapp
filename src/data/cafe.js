@@ -84,7 +84,7 @@ const cafeInfo = [
     gu_si: "강남구",
     dong: "신사",
     theme: "디저트",
-    name: "누데이크 하우스 도산",
+    name: "누데이크",
     address: "신사동 649-8",
     off: "x",
     parking: "o",
