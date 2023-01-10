@@ -71,19 +71,19 @@ function App() {
   }).map((data, index) => {
     return (
       <div className="card" key={index} onClick={() => movePage(data.link)}>
-        <img src={data.image}></img>
-        <h4 className="title">{data.name}</h4>
-        <small className="theme"> ({data.theme})</small>
+        <img className="img" src={data.image}></img>
+        <b>
+          <h4 className="title">{data.name}</h4>
+        </b>
+        <h6 className="theme"> ({data.theme})</h6>
         <br />
         <h6 className="area">{data.area}</h6>
         <h6 className="gu_si">{data.gu_si}</h6>
-        <small>
-          <h6 className="dong">({data.dong})</h6>
-        </small>
+        <h6 className="dong"> {data.dong}</h6>
         <br />
-        <small>
-          parking: {data.parking} / off: {data.off}
-        </small>
+        <h5>
+          ℙ : {data.parking} / 𝕠𝕗𝕗 : {data.off}
+        </h5>
       </div>
     );
   });

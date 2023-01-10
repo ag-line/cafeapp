@@ -5,9 +5,9 @@
   min-width: 375px;
   max-width: 900px;
   min-height: 700px;
-  background-image: url(https://mblogthumb-phinf.pstatic.net/MjAxNzExMDhfODkg/MDAxNTEwMTQxNDY0NjU4.iHZbzkJne3tx05gvCxHEwq86NnniLoETYCapvqDBxT0g.nD9XTXjWt4m7ZpP-o_Z-MZNCE-otg4IWRemwquVAUJYg.JPEG.mypetparty/joanna-kosinska-433799.jpg?type=w800);
+  background: #ada996; /* fallback for old browsers */
+  background-image: url("./back.jpg");
   background-attachment: fixed;
-  background-size: cover;
 }
 h1 {
   margin: 0 10px;
@@ -25,7 +25,7 @@ h1 {
   min-width: 375px;
   max-width: 900px;
   height: 60px;
-  background-color: #51453dd0;
+  background: #bab6a4d0;
 }
 .selectBOx,
 .card_list {
@@ -36,12 +36,13 @@ h1 {
   justify-content: space-evenly;
 }
 select {
-  height: 30px;
-  background-color: #51453dd0;
+  height: 40px;
+  background-color: #504e4b53;
+  border: none;
   border-radius: 15px;
   width: 80px;
   font-size: small;
-  margin: 10px 0;
+  margin: 5px 0;
   display: flex;
   color: #e2e2e2;
   text-align: center;
@@ -52,13 +53,13 @@ select option[value=""][disabled] {
 a {
   text-decoration: none;
 }
-img {
+.img {
   margin: 0 auto;
   display: block;
   height: 100px;
   border-radius: 10px;
-  width: fit-content;
-  min-width: 95px;
+  min-width: 90px;
+  width: auto;
   max-width: 135px;
   margin: 0 auto;
 }
@@ -66,16 +67,26 @@ img {
   display: inline;
   font-size: 13px;
   margin: 0;
+  color: #422e00;
 }
 .theme {
   font-size: 8px;
+}
+.dong,
+.gu_si,
+.theme {
+  margin: 0;
+}
+.pimg {
+  width: 20px;
+  height: auto;
 }
 .card {
   width: max-content;
   max-width: 160px;
   background-color: #dcd0c5d9;
   display: inline-block;
-  border: 1px solid #606266;
+  border: 1px solid #b8b1ad;
   border-radius: 20px;
   padding: 8px;
   margin: 8px;
@@ -83,6 +94,11 @@ img {
   text-align: center;
 }
 h6 {
+  color: #6c6965;
   margin-right: 5px;
   display: inline;
+}
+h5 {
+  margin: 0;
+  color: #504e4b;
 }
