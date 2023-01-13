@@ -72,7 +72,7 @@ function App() {
     return (
       <div className="card" key={index} onClick={() => movePage(data.link)}>
         <div className="imgBox">
-          <img className="img" src={data.image}></img>
+          <img className="img" src={data.image} alt={data.name}></img>
         </div>
         <div className="info">
           <b>
