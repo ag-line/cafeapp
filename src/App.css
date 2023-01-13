@@ -7,8 +7,23 @@
   min-height: 700px;
   background: #ada996; /* fallback for old browsers */
   background-image: url("./back.jpg");
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
+@media (max-width: 380px) {
+  .info {
+    margin: auto 0;
+    width: fit-content;
+    display: inline;
+    text-align: start;
+    margin-left: 10px;
+  }
+  .card {
+    display: flex;
+    width: 300px;
+  }
+}
+
 h1 {
   margin: 0 10px;
   height: 100%;
@@ -29,6 +44,7 @@ h1 {
 }
 .selectBOx,
 .card_list {
+  text-align: center;
   flex-direction: row;
   display: inline-flex;
   flex-wrap: wrap;
@@ -45,7 +61,6 @@ select {
   margin: 5px 0;
   display: flex;
   color: #e2e2e2;
-  text-align: center;
 }
 select option[value=""][disabled] {
   display: none;
@@ -54,13 +69,11 @@ a {
   text-decoration: none;
 }
 .img {
-  margin: 0 auto;
-  display: block;
-  height: 100px;
-  border-radius: 10px;
   min-width: 90px;
   width: auto;
   max-width: 135px;
+  height: 100px;
+  border-radius: 10px;
   margin: 0 auto;
 }
 .title {
@@ -77,15 +90,8 @@ a {
 .theme {
   margin: 0;
 }
-.pimg {
-  width: 20px;
-  height: auto;
-}
 .card {
-  width: max-content;
-  max-width: 160px;
   background-color: #dcd0c5d9;
-  display: inline-block;
   border: 1px solid #b8b1ad;
   border-radius: 20px;
   padding: 8px;
