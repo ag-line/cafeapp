@@ -10,7 +10,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-@media (max-width: 380px) {
+@media (max-width: 395px) {
   .info {
     margin: auto 0;
     width: fit-content;
@@ -18,9 +18,28 @@
     text-align: start;
     margin-left: 10px;
   }
+  .name {
+    display: block;
+    width: 100%;
+  }
+  .card_list {
+    padding-top: 100px;
+  }
   .card {
     display: flex;
-    width: 300px;
+    width: 380px;
+  }
+  .imgBox .img {
+    width: 135px;
+  }
+  .top {
+    right: 0;
+  }
+}
+
+@media (min-width: 395px) {
+  .card_list {
+    padding-top: 75px;
   }
 }
 
@@ -29,9 +48,6 @@ h1 {
   height: 100%;
   color: #f7f7f7;
 }
-.card_list {
-  padding-top: 75px;
-}
 .selectBOx {
   padding-top: 10px;
   position: fixed;
@@ -39,7 +55,6 @@ h1 {
   top: 70;
   min-width: 375px;
   max-width: 900px;
-  height: 60px;
   background: #bab6a4d0;
 }
 .selectBOx,
@@ -61,6 +76,7 @@ select {
   margin: 5px 0;
   display: flex;
   color: #e2e2e2;
+  text-align: center;
 }
 select option[value=""][disabled] {
   display: none;
@@ -107,4 +123,39 @@ h6 {
 h5 {
   margin: 0;
   color: #504e4b;
+}
+.bottom {
+  bottom: 0;
+  position: fixed;
+  background: #cdcabfd0;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  height: 25px;
+  text-align: center;
+  color: #e2e2e2;
+}
+.link {
+  text-decoration: none;
+  margin: 0 30px;
+}
+.scroll__container {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  z-index: 1;
+}
+.top {
+  font-weight: bold;
+  font-size: 15px;
+  padding: 15px 10px;
+  background-color: #98866ae1;
+  color: #fff;
+  border: 1px solid rgb(210, 204, 193);
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+}
+.top:hover {
+  color: #937a5d;
 }

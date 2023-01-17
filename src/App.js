@@ -1,10 +1,10 @@
 /* eslint-disable */
-
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import CafeInfo from "./data/cafe";
 import Area from "./data/area";
 import Category from "./C_component/Category";
+import TopButton from "./C_component/TopBtn";
 
 const AREA = [
   { value: "", name: "Area" },
@@ -95,7 +95,7 @@ function App() {
   return (
     <div className="App">
       <div className="selectBOx">
-        <h1>Cup-Zip</h1>
+        <h1 className="name">Cup-Zip</h1>
         <Category
           options={AREA}
           onChange={(e) => setArea(e.target.value)}
@@ -112,6 +112,22 @@ function App() {
         ></Category>
       </div>
       <div className="card_list">{items}</div>
+      <div className="bottom">
+        <a
+          className="link"
+          href="https://silver-line.notion.site/b4b8142dbdfa4bf389e9555526b825ae"
+        >
+          click to Notion
+        </a>
+        |
+        <a className="link" href="https://github.com/ag-line/cafeapp">
+          click to Git
+        </a>
+      </div>
+      <a href="#doz_header" class="btn_gotop" id="click">
+        <span class="glyphicon glyphicon-chevron-up"></span>
+      </a>
+      <TopButton></TopButton>
     </div>
   );
 }
